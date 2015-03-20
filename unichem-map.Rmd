@@ -1,0 +1,74 @@
+---
+title: "Mapping DrugBank Compounds with UniChem"
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments
+---
+
+For more info or as a citation, please see:
+
++ Himmelstein DS, Brueggeman LA, Baranzini SE (2015) **Repurposing drugs on a heterogeneous network**. *ThinkLab*. [doi:10.15363/thinklab.4](https://dx.doi.org/10.15363/thinklab.4)
+
+Specifically, this notebook corresponds to a dicussion on [unifying compound vocabularies using UniChem](//thinklab.com/discussion/unifying-drug-vocabularies/40).
+
+First, we used [UniChem to match DrugBank compounds](//nbviewer.ipython.org/url/git.dhimmel.com/drugbank/unichem-map.ipynb) to external resources. We used the UniChem connectivity search which allows fuzzy matching.
+
+
+```{r, message=FALSE}
+library(dplyr)
+library(ggplot2)
+library(DT)
+library(reshape2)
+```
+
+```{r}
+drugbank.df <- file.path('data', 'drugbank.tsv') %>%
+  read.delim(stringsAsFactors=FALSE) %>%
+  dplyr::filter(type == 'small molecule') %>%
+  dplyr::filter(grepl('approved', groups))
+
+count.df <- file.path('data', 'mapping-counts.tsv') %>%
+  read.delim(stringsAsFactors=FALSE, check.names=FALSE)
+
+count.df <- drugbank.df %>%
+  dplyr::rename(drugbank_name = name) %>%
+  dplyr::left_join(count.df)
+```
+
+## The external sources that [we want to map to](//thinklab.com/discussion/unifying-drug-vocabularies/40)
+
+```{r}
+sources <- c('chembl', 'drugbank', 'fdasrs', 'pubchem', 'lincs')
+```
+
+## Percent of approved small molecules in DrugBank matched to external resource
+
+```{r}
+count.df %>%
+  dplyr::select(one_of(sources)) %>%
+  dplyr::summarise_each(funs(mean(. > 0) * 100)) %>%
+  knitr::kable()
+```
+
+A small number of DrugBank approved small molecules (`r sum(count.df$drugbank == 0)`) do not map to DrugBank. This appears to occur because these compounds do not contain structural information in the DrugBank database.
+
+## The number of compounds matching each approved small molecules in DrugBank
+
+```{r}
+count.df %>%
+  dplyr::select(drugbank_id, drugbank_name, one_of(sources)) %>%
+  DT::datatable()
+```
+
+## The distribution of compounds mapped per approved small molecule in DrugBank
+
+```{r, message=FALSE}
+count.df %>%
+  dplyr::select(one_of(sources)) %>%
+  reshape2::melt(variable.name = 'source', value.name = 'count') %>%
+  ggplot(aes(count)) + theme_bw() +
+    geom_histogram(binwidth = 1, origin = -0.5, alpha = 0.6, col='black') +
+    facet_wrap(~ source, scales='free_x')
+```
+
