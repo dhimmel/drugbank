@@ -72,3 +72,24 @@ count.df %>%
     facet_wrap(~ source, scales='free_x')
 ```
 
+## Read the mapping file
+
+```{r}
+mapping.df <- file.path('data', 'mapping.tsv.gz') %>%
+  read.delim(stringsAsFactors=FALSE)
+```
+
+## Each approved small molecule in DrugBank and the DrugBank IDs it matched to
+
+```{r}
+mapping.df %>%
+  dplyr::filter(source_name == 'drugbank') %>%
+  dplyr::inner_join(drugbank.df %>% dplyr::select(drugbank_id, type, groups)) %>%
+  dplyr::group_by(drugbank_id, drugbank_name) %>%
+  dplyr::summarise(
+    n_matches = n(),
+    matches = paste(src_compound_id, collapse = '|')
+    ) %>%
+  dplyr::filter(n_matches > 1) %>%
+  DT::datatable()
+```
