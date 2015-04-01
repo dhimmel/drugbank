@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"
+    targetNamespace="http://www.drugbank.ca" xmlns="http://www.drugbank.ca">
+    <xs:element name="drugbank" type="drugbank-type">
+        <xs:annotation>
+            <xs:documentation>This is the root element for the DrugBank database schema. DrugBank is a database on drug and drug-targets.</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+    <xs:complexType name="drugbank-type">
+        <xs:annotation>
+            <xs:documentation>This is the root element type for the DrugBank database schema.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="drug" type="drug-type" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="version" type="xs:string">
+            <xs:annotation>
+                <xs:documentation>The DrugBank version for the exported XML file.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+        <xs:attribute name="exported-on" type="xs:date">
+            <xs:annotation>
+                <xs:documentation>The date the XML file was exported.</xs:documentation>
+            </xs:annotation>
+        </xs:attribute>
+    </xs:complexType>
+    <xs:complexType name="drug-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="drugbank-id"
+                type="drugbank-drug-id-type"> </xs:element>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="cas-number" type="xs:string"/>
+            <xs:element name="groups" type="group-list-type"/>
+            <xs:element name="general-references" type="xs:string"/>
+            <xs:element name="synthesis-reference" type="xs:string"/>
+            <xs:element name="indication" type="xs:string"/>
+            <xs:element name="pharmacodynamics" type="xs:string"/>
+            <xs:element name="mechanism-of-action" type="xs:string"/>
+            <xs:element name="toxicity" type="xs:string"/>
+            <xs:element name="metabolism" type="xs:string"/>
+            <xs:element name="absorption" type="xs:string"/>
+            <xs:element name="half-life" type="xs:string"/>
+            <xs:element name="protein-binding" type="xs:string"/>
+            <xs:element name="route-of-elimination" type="xs:string"/>
+            <xs:element name="volume-of-distribution" type="xs:string"/>
+            <xs:element name="clearance" type="xs:string"/>
+            <xs:element name="classification" type="classification-type" minOccurs="0"/>
+            <xs:element name="salts" type="salt-list-type"/>
+            <xs:element name="synonyms" type="synonym-list-type"/>
+            <xs:element name="products" type="product-list-type"/>
+            <xs:element name="international-brands" type="international-brand-list-type"/>
+            <xs:element name="mixtures" type="mixture-list-type"/>
+            <xs:element name="packagers" type="packager-list-type"/>
+            <xs:element name="manufacturers" type="manufacturer-list-type"/>
+            <xs:element name="prices" type="price-list-type"/>
+            <xs:element name="categories" type="category-list-type"/>
+            <xs:element name="affected-organisms" type="affected-organism-list-type"/>
+            <xs:element name="dosages" type="dosage-list-type"/>
+            <xs:element name="atc-codes" type="atc-code-list-type"/>
+            <xs:element name="ahfs-codes" type="ahfs-code-list-type"/>
+            <xs:element name="patents" type="patent-list-type"/>
+            <xs:element name="food-interactions" type="food-interaction-list-type"/>
+            <xs:element name="drug-interactions" type="drug-interaction-list-type"/>
+            <xs:element minOccurs="0" name="sequences" type="sequence-list-type"/>
+            <xs:element minOccurs="0" name="calculated-properties"
+                type="calculated-property-list-type"/>
+            <xs:element name="experimental-properties" type="experimental-property-list-type"/>
+            <xs:element name="external-identifiers" type="external-identifier-list-type"/>
+            <xs:element name="external-links" type="external-link-list-type"/>
+            <xs:element name="pathways" type="pathway-list-type"/>
+            <xs:element name="reactions" type="reaction-list-type"/>
+            <xs:element name="snp-effects" type="snp-effect-list-type"/>
+            <xs:element name="snp-adverse-drug-reactions" type="snp-adverse-drug-reaction-list-type"/>
+            <xs:element name="targets" type="target-list-type"/>
+            <xs:element name="enzymes" type="enzyme-list-type"/>
+            <xs:element name="carriers" type="carrier-list-type"/>
+            <xs:element name="transporters" type="transporter-list-type"/>
+        </xs:sequence>
+        <xs:attribute name="type" use="required">
+            <xs:simpleType>
+                <xs:restriction base="xs:string">
+                    <xs:enumeration value="small molecule"/>
+                    <xs:enumeration value="biotech"/>
+                </xs:restriction>
+            </xs:simpleType>
+        </xs:attribute>
+        <xs:attribute name="created" type="xs:date" use="required"/>
+        <xs:attribute name="updated" type="xs:date" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="group-list-type">
+        <xs:sequence maxOccurs="6" minOccurs="1">
+            <xs:element name="group" type="group-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="group-type">
+        <xs:annotation>
+            <xs:documentation>Drugs are grouped into a category like approved, experimental, illict.</xs:documentation>
+        </xs:annotation>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="approved"/>
+            <xs:enumeration value="illicit"/>
+            <xs:enumeration value="experimental"/>
+            <xs:enumeration value="withdrawn"/>
+            <xs:enumeration value="nutraceutical"/>
+            <xs:enumeration value="investigational"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="classification-type">
+        <xs:annotation>
+            <xs:documentation>Drug classification is obtained from ClassyFire (http://classyfire.wishartlab.com).</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="direct-parent" type="xs:string"/>
+            <xs:element name="kingdom" type="xs:string"/>
+            <xs:element name="superclass" type="xs:string"/>
+            <xs:element name="class" type="xs:string"/>
+            <xs:element name="subclass" type="xs:string"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="alternative-parent"
+                type="xs:string"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="substituent" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="synonym-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="synonym" type="synonym-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="synonym-type">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="language" type="xs:string"/>
+                <xs:attribute name="coder" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="salt-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="salt" type="salt-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="salt-type">
+        <xs:sequence>
+            <xs:element name="drugbank-id" type="drugbank-salt-id-type" maxOccurs="unbounded"
+                minOccurs="0"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="cas-number" type="xs:string"/>
+            <xs:element name="inchikey" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="drugbank-drug-id-value">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:whiteSpace value="collapse"/>
+            <xs:pattern value="DB[0-9]{5}"/>
+            <xs:pattern value="APRD[0-9]{5}"/>
+            <xs:pattern value="BIOD[0-9]{5}"/>
+            <xs:pattern value="BTD[0-9]{5}"/>
+            <xs:pattern value="EXPT[0-9]{5}"/>
+            <xs:pattern value="NUTR[0-9]{5}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="drugbank-drug-id-type">
+        <xs:annotation>
+            <xs:documentation>The DrugBank ID is used to uniquely identify a drug entry. There is a primary ID and several secondary IDs that come from older ID formats or merged entries.</xs:documentation>
+        </xs:annotation>
+        <xs:simpleContent>
+            <xs:extension base="drugbank-drug-id-value">
+                <xs:attribute default="false" name="primary" type="xs:boolean"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="drugbank-salt-id-type">
+        <xs:annotation>
+            <xs:documentation>The salt DrugBank ID uniquely identifies a salt entry. Multiple IDs indicate a merged entry.</xs:documentation>
+        </xs:annotation>
+        <xs:simpleContent>
+            <xs:extension base="drugbank-salt-id-value">
+                <xs:attribute default="false" name="primary" type="xs:boolean"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:simpleType name="drugbank-salt-id-value">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:whiteSpace value="collapse"/>
+            <xs:pattern value="DBSALT[0-9]{6}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="drugbank-metabolite-id-type">
+        <xs:annotation>
+            <xs:documentation>The metabolite DrugBank ID uniquely identifies a metabolite entry. Multiple IDs indicate a merged entry.</xs:documentation>
+        </xs:annotation>
+        <xs:simpleContent>
+            <xs:extension base="drugbank-metabolite-id-value">
+                <xs:attribute default="false" name="primary" type="xs:boolean"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:simpleType name="drugbank-metabolite-id-value">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+            <xs:whiteSpace value="collapse"/>
+            <xs:pattern value="DBMET[0-9]{5}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="international-brand-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="brand"
+                type="international-brand-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="international-brand-type">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="company" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="product-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="product" type="product-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="product-type">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="name" type="xs:string"/>
+                <xs:attribute name="ndc-id" type="xs:string"/>
+                <xs:attribute name="ndc-product-code" type="xs:string"/>
+                <xs:attribute name="dpd-id" type="xs:string"/>
+                <xs:attribute name="dosage-form" type="xs:string"/>
+                <xs:attribute name="strength" type="xs:string"/>
+                <xs:attribute name="route" type="xs:string"/>
+                <xs:attribute name="fda-application-number" type="xs:string"/>
+                <xs:attribute name="generic" type="xs:boolean"/>
+                <xs:attribute name="over-the-counter" type="xs:boolean"/>
+                <xs:attribute name="approved" type="xs:boolean"/>
+                <xs:attribute name="country" type="xs:string"/>
+                <xs:attribute name="source" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="mixture-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="mixture" type="mixture-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="mixture-type">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="ingredients" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="packager-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="packager" type="packager-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="packager-type">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="url" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="manufacturer-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="manufacturer"
+                type="manufacturer-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="manufacturer-type">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="generic" type="xs:boolean"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="price-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="price" type="price-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="price-type">
+        <xs:annotation>
+            <xs:documentation>The price for the given drug in US or Canadian currency.</xs:documentation>
+        </xs:annotation>
+        <xs:sequence>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="cost">
+                <xs:complexType>
+                    <xs:simpleContent>
+                        <xs:extension base="xs:string">
+                            <xs:attribute name="currency" type="xs:string" use="required"/>
+                        </xs:extension>
+                    </xs:simpleContent>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="unit" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="category-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="category" type="category-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="category-type">
+        <xs:sequence>
+            <xs:element name="category" type="xs:string"/>
+            <xs:element name="mesh-id" type="xs:string"> </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="affected-organism-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="affected-organism"
+                type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="dosage-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="dosage" type="dosage-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="dosage-type">
+        <xs:sequence>
+            <xs:element name="form" type="xs:string"/>
+            <xs:element name="route" type="xs:string"/>
+            <xs:element name="strength" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="atc-code-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="atc-code" type="atc-code-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="atc-code-type">
+        <xs:sequence>
+            <xs:element maxOccurs="4" minOccurs="4" name="level" type="atc-code-level-type"/>
+        </xs:sequence>
+        <xs:attribute name="code" type="xs:string"/>
+    </xs:complexType>
+    <xs:complexType name="atc-code-level-type">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute name="code" type="xs:string" use="required"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="ahfs-code-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="ahfs-code" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="patent-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="patent" type="patent-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="patent-type">
+        <xs:sequence>
+            <xs:element name="number" type="xs:string"/>
+            <xs:element name="country" type="xs:string"/>
+            <xs:element name="approved" type="xs:string"/>
+            <xs:element name="expires" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="food-interaction-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="food-interaction" type="xs:string"
+            />
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="drug-interaction-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="drug-interaction"
+                type="drug-interaction-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="drug-interaction-type">
+        <xs:sequence>
+            <xs:element name="drugbank-id" type="drugbank-drug-id-type"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="sequence-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="sequence">
+                <xs:complexType>
+                    <xs:simpleContent>
+                        <xs:extension base="xs:string">
+                            <xs:attribute fixed="FASTA" name="format" type="xs:string"/>
+                        </xs:extension>
+                    </xs:simpleContent>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="calculated-property-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="property"
+                type="calculated-property-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="calculated-property-type">
+        <xs:sequence>
+            <xs:element name="kind" type="calculated-property-kind-type"/>
+            <xs:element name="value" type="xs:string"/>
+            <xs:element name="source" type="calculated-property-source-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="calculated-property-source-type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ChemAxon"/>
+            <xs:enumeration value="ALOGPS"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="calculated-property-kind-type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="logP"/>
+            <xs:enumeration value="logS"/>
+            <xs:enumeration value="Water Solubility"/>
+            <xs:enumeration value="IUPAC Name"/>
+            <xs:enumeration value="Traditional IUPAC Name"/>
+            <xs:enumeration value="Molecular Weight"/>
+            <xs:enumeration value="Monoisotopic Weight"/>
+            <xs:enumeration value="SMILES"/>
+            <xs:enumeration value="Molecular Formula"/>
+            <xs:enumeration value="InChI"/>
+            <xs:enumeration value="InChIKey"/>
+            <xs:enumeration value="Polar Surface Area (PSA)"/>
+            <xs:enumeration value="Refractivity"/>
+            <xs:enumeration value="Polarizability"/>
+            <xs:enumeration value="Rotatable Bond Count"/>
+            <xs:enumeration value="H Bond Acceptor Count"/>
+            <xs:enumeration value="H Bond Donor Count"/>
+            <xs:enumeration value="pKa (strongest acidic)"/>
+            <xs:enumeration value="pKa (strongest basic)"/>
+            <xs:enumeration value="Physiological Charge"/>
+            <xs:enumeration value="Number of Rings"/>
+            <xs:enumeration value="Bioavailability"/>
+            <xs:enumeration value="Rule of Five"/>
+            <xs:enumeration value="Ghose Filter"/>
+            <xs:enumeration value="MDDR-Like Rule"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="experimental-property-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="property"
+                type="experimental-property-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="experimental-property-type">
+        <xs:sequence>
+            <xs:element name="kind" type="experimental-property-kind-type"/>
+            <xs:element name="value" type="xs:string"/>
+            <xs:element name="source" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="experimental-property-kind-type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Water Solubility"/>
+            <xs:enumeration value="Melting Point"/>
+            <xs:enumeration value="Boiling Point"/>
+            <xs:enumeration value="logP"/>
+            <xs:enumeration value="logS"/>
+            <xs:enumeration value="Hydrophobicity"/>
+            <xs:enumeration value="Isoelectric Point"/>
+            <xs:enumeration value="caco2 Permeability"/>
+            <xs:enumeration value="pKa"/>
+            <xs:enumeration value="Molecular Weight"/>
+            <xs:enumeration value="Molecular Formula"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="external-identifier-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="external-identifier"
+                type="external-identifier-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="external-identifier-type">
+        <xs:sequence>
+            <xs:element name="resource" type="external-identifier-resource-type"/>
+            <xs:element name="identifier" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="external-identifier-resource-type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="UniProtKB"/>
+            <xs:enumeration value="Wikipedia"/>
+            <xs:enumeration value="ChEBI"/>
+            <xs:enumeration value="PubChem Compound"/>
+            <xs:enumeration value="PubChem Substance"/>
+            <xs:enumeration value="Drugs Product Database (DPD)"/>
+            <xs:enumeration value="KEGG Compound"/>
+            <xs:enumeration value="KEGG Drug"/>
+            <xs:enumeration value="ChemSpider"/>
+            <xs:enumeration value="BindingDB"/>
+            <xs:enumeration value="National Drug Code Directory"/>
+            <xs:enumeration value="GenBank"/>
+            <xs:enumeration value="PharmGKB"/>
+            <xs:enumeration value="PDB"/>
+            <xs:enumeration value="IUPHAR"/>
+            <xs:enumeration value="Guide to Pharmacology"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="external-link-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="external-link"
+                type="external-link-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="external-link-type">
+        <xs:sequence>
+            <xs:element name="resource" type="external-link-resource-type"/>
+            <xs:element name="url" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="external-link-resource-type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="RxList"/>
+            <xs:enumeration value="PDRhealth"/>
+            <xs:enumeration value="Drugs.com"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="pathway-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="pathway" type="pathway-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="pathway-type">
+        <xs:sequence>
+            <xs:element name="smpdb-id" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="drugs" type="pathway-drug-list-type"/>
+            <xs:element name="enzymes" type="pathway-enzyme-list-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="pathway-drug-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="1" name="drug" type="pathway-drug-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="pathway-drug-type">
+        <xs:sequence>
+            <xs:element name="drugbank-id" type="drugbank-drug-id-type"/>
+            <xs:element name="name" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="pathway-enzyme-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="uniprot-id" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="reaction-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="reaction" type="reaction-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="reaction-type">
+        <xs:sequence>
+            <xs:element name="sequence" type="xs:string"/>
+            <xs:element name="left-element" type="reaction-element-type"/>
+            <xs:element name="right-element" type="reaction-element-type"/>
+            <xs:element name="enzymes" type="reaction-enzyme-list-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="reaction-element-type">
+        <xs:sequence>
+            <xs:element name="drugbank-id" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="reaction-enzyme-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="enzyme"
+                type="reaction-enzyme-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="reaction-enzyme-type">
+        <xs:sequence>
+            <xs:element name="drugbank-id" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="uniprot-id" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="snp-effect-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="effect" type="snp-effect-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="snp-effect-type">
+        <xs:sequence maxOccurs="unbounded" minOccurs="0">
+            <xs:element maxOccurs="1" minOccurs="1" name="protein-name" type="xs:string"/>
+            <xs:element name="gene-symbol" type="xs:string"/>
+            <xs:element name="uniprot-id" type="xs:string"/>
+            <xs:element name="rs-id" type="xs:string"/>
+            <xs:element name="allele" type="xs:string"/>
+            <xs:element name="defining-change" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="pubmed-id" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="snp-adverse-drug-reaction-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="reaction"
+                type="snp-adverse-drug-reaction-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="snp-adverse-drug-reaction-type">
+        <xs:sequence maxOccurs="unbounded" minOccurs="0">
+            <xs:element maxOccurs="1" minOccurs="1" name="protein-name" type="xs:string"/>
+            <xs:element name="gene-symbol" type="xs:string"/>
+            <xs:element name="uniprot-id" type="xs:string"/>
+            <xs:element name="rs-id" type="xs:string"/>
+            <xs:element name="allele" type="xs:string"/>
+            <xs:element name="adverse-reaction" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="pubmed-id" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="polypeptide-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="polypeptide"
+                type="polypeptide-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="polypeptide-type">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="general-function" type="xs:string"/>
+            <xs:element name="specific-function" type="xs:string"/>
+            <xs:element name="gene-name" type="xs:string"/>
+            <xs:element name="locus" type="xs:string"/>
+            <xs:element name="cellular-location" type="xs:string"/>
+            <xs:element name="transmembrane-regions" type="xs:string"/>
+            <xs:element name="signal-regions" type="xs:string"/>
+            <xs:element name="theoretical-pi" type="xs:string"/>
+            <xs:element name="molecular-weight" type="xs:string"/>
+            <xs:element name="chromosome-location" type="xs:string"/>
+            <xs:element name="organism">
+                <xs:complexType>
+                    <xs:simpleContent>
+                        <xs:extension base="xs:string">
+                            <xs:attribute name="ncbi-taxonomy-id" type="xs:string"/>
+                        </xs:extension>
+                    </xs:simpleContent>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="external-identifiers" type="polypeptide-external-identifier-list-type"/>
+            <xs:element name="synonyms" type="polypeptide-synonym-list-type"/>
+            <xs:element name="amino-acid-sequence" type="sequence-type" minOccurs="1"/>
+            <xs:element name="gene-sequence" type="sequence-type" minOccurs="1"/>
+            <xs:element name="pfams" type="pfam-list-type"/>
+            <xs:element name="go-classifiers" type="go-classifier-list-type"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:string" use="required"/>
+        <xs:attribute name="source" type="xs:string" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="polypeptide-external-identifier-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="external-identifier"
+                type="polypeptide-external-identifier-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="polypeptide-external-identifier-type">
+        <xs:sequence>
+            <xs:element name="resource" type="polypeptide-external-identifier-resource-type"/>
+            <xs:element name="identifier" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="polypeptide-external-identifier-resource-type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="UniProtKB"/>
+            <xs:enumeration value="UniProt Accession"/>
+            <xs:enumeration value="HUGO Gene Nomenclature Committee (HGNC)"/>
+            <xs:enumeration value="Human Protein Reference Database (HPRD)"/>
+            <xs:enumeration value="GenAtlas"/>
+            <xs:enumeration value="GeneCards"/>
+            <xs:enumeration value="GenBank Gene Database"/>
+            <xs:enumeration value="GenBank Protein Database"/>
+            <xs:enumeration value="ChEMBL"/>
+            <xs:enumeration value="IUPHAR"/>
+            <xs:enumeration value="Guide to Pharmacology"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:complexType name="polypeptide-synonym-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="synonym" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="sequence-type">
+        <xs:simpleContent>
+            <xs:extension base="xs:string">
+                <xs:attribute fixed="FASTA" name="format" type="xs:string"/>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    <xs:complexType name="pfam-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="pfam" type="pfam-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="pfam-type">
+        <xs:sequence>
+            <xs:element name="identifier" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="go-classifier-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="go-classifier"
+                type="go-classifier-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="go-classifier-type">
+        <xs:sequence>
+            <xs:element name="category" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="action-list-type">
+        <xs:sequence>
+            <xs:element name="action" type="xs:string" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:simpleType name="known-action-type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="yes"/>
+            <xs:enumeration value="no"/>
+            <xs:enumeration value="unknown"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:group name="interactant-group">
+        <xs:sequence>
+            <xs:element name="id" type="xs:string"/>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="organism" type="xs:string"/>
+            <xs:element name="actions" type="action-list-type"/>
+            <xs:element name="references" type="xs:string"/>
+            <xs:element name="known-action" type="known-action-type"/>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="polypeptide"
+                type="polypeptide-type"/>
+        </xs:sequence>
+    </xs:group>
+    <xs:complexType name="target-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="target" type="target-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="target-type">
+        <xs:sequence>
+            <xs:group ref="interactant-group"/>
+        </xs:sequence>
+        <xs:attribute name="position" type="xs:integer" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="enzyme-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="enzyme" type="enzyme-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="enzyme-type">
+        <xs:sequence>
+            <xs:group ref="interactant-group"/>
+            <xs:element name="inhibition-strength" type="xs:string"/>
+            <xs:element name="induction-strength" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="position" type="xs:integer" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="carrier-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="carrier" type="carrier-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="carrier-type">
+        <xs:sequence>
+            <xs:group ref="interactant-group"/>
+        </xs:sequence>
+        <xs:attribute name="position" type="xs:integer" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="transporter-list-type">
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" minOccurs="0" name="transporter"
+                type="transporter-type"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="transporter-type">
+        <xs:sequence>
+            <xs:group ref="interactant-group"/>
+        </xs:sequence>
+        <xs:attribute name="position" type="xs:integer" use="optional"/>
+    </xs:complexType>
+</xs:schema>

@@ -1,0 +1,5000 @@
+      <value>211-213</value>
+      <source>U.S. Patent 4,094,984.</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>31308</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D01744</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Brotizolam</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/international/brotizolam.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="small molecule" created="2014-06-23" updated="2015-01-22">
+  <drugbank-id primary="true">DB09018</drugbank-id>
+  <name>Bromopride</name>
+  <description>Bromopride is a dopamine antagonist with prokinetic properties closely related to metoclopramide, and is  widely used as an antiemetic. It is not available in the United States or the United Kingdom.</description>
+  <cas-number>4093-35-0</cas-number>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references format="textile"/>
+  <synthesis-reference>U.S. Patents 3,177,252; 3,219,528; and 3,357,978.</synthesis-reference>
+  <indication>Bromopride in indicated in the treatment of nausea and vomiting, including PONV (post-operative nausea and vomiting), gastroesophageal reflux disease (GERD/GORD), as well as endoscopy preparation and radiographic studies of the GI tract. </indication>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism>Hepatic.</metabolism>
+  <absorption/>
+  <half-life/>
+  <protein-binding>40%.</protein-binding>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance>Renal, 10-14% as original compound. </clearance>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="IUPAC">4-amino-5-bromo-N-[2-(diethylamino)ethyl]-2-methoxybenzamide</synonym>
+    <synonym language="German" coder="INN">Bromoprid</synonym>
+    <synonym language="Spanish" coder="INN">Bromoprida</synonym>
+    <synonym language="" coder="DCIT/DCF">Bromopride</synonym>
+    <synonym language="Latin" coder="INN">Bromopridum</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand company="UCI">Bromopan</international-brand>
+    <international-brand company="Sanofi">Digesan</international-brand>
+    <international-brand company="Merck">Movipride</international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents>
+    <patent>
+      <number>3177252</number>
+      <country>United States</country>
+      <approved>1962-07-17</approved>
+      <expires>1982-07-17</expires>
+    </patent>
+    <patent>
+      <number>3219528</number>
+      <country>United States</country>
+      <approved>1962-07-17</approved>
+      <expires>1982-07-17</expires>
+    </patent>
+    <patent>
+      <number>3357978</number>
+      <country>United States</country>
+      <approved>1964-02-28</approved>
+      <expires>1984-02-28</expires>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>2.48</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-3.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.33e-01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>0.79</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>4-amino-5-bromo-N-[2-(diethylamino)ethyl]-2-methoxybenzene-1-carboximidic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>bromopride</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>344.247</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>343.08953961</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CCN(CC)CCN=C(O)C1=C(OC)C=C(N)C(Br)=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C14H22BrN3O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C14H22BrN3O2/c1-4-18(5-2)7-6-17-14(19)10-8-11(15)12(16)9-13(10)20-3/h8-9H,4-7,16H2,1-3H3,(H,17,19)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>InChIKey=GIYAQDDTCWHPPL-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>71.08</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>86.86</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>34.09</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>7.55</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.56</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>134-135</value>
+      <source>U.S. Patents 3,177,252; 3,219,528; and 3,357,978.</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>310957</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07101</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Bromopride</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/international/bromopride.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000756</id>
+      <name>D(2) dopamine receptor</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references format="textile"># Tonini M, Cipollina L, Poluzzi E, Crema F, Corazza GR, De Ponti F: Review article: clinical implications of enteric and central D2 receptor blockade by antidopaminergic gastrointestinal prokinetics. Aliment Pharmacol Ther. 2004 Feb 15;19(4):379-90. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/14871277</references>
+      <known-action>yes</known-action>
+      <polypeptide id="P14416" source="Swiss-Prot">
+    <name>D(2) dopamine receptor</name>
+    <general-function>Involved in dopamine receptor activity</general-function>
+    <specific-function>This is one of the five types (D1 to D5) of receptors for dopamine. The activity of this receptor is mediated by G proteins which inhibit adenylyl cyclase</specific-function>
+    <gene-name>DRD2</gene-name>
+    <locus>11q23</locus>
+    <cellular-location>Membrane; multi-pass membrane protein</cellular-location>
+    <transmembrane-regions>38-60
+72-97
+109-130
+152-174
+187-210
+374-397
+406-429</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>9.85</theoretical-pi>
+    <molecular-weight>50620.0</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:3023</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>DRD2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GeneCards</resource>
+        <identifier>DRD2</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M30625</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>181432</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>215</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>20</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P14416</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>DRD2_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Dopamine D2 receptor</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;D(2) dopamine receptor
+MDPLNLSWYDDDLERQNWSRPFNGSDGKADRPHYNYYATLLTLLIAVIVFGNVLVCMAVS
+REKALQTTTNYLIVSLAVADLLVATLVMPWVVYLEVVGEWKFSRIHCDIFVTLDVMMCTA
+SILNLCAISIDRYTAVAMPMLYNTRYSSKRRVTVMISIVWVLSFTISCPLLFGLNNADQN
+ECIIANPAFVVYSSIVSFYVPFIVTLLVYIKIYIVLRRRRKRVNTKRSSRAFRAHLRAPL
+KGNCTHPEDMKLCTVIMKSNGSFPVNRRRVEAARRAQELEMEMLSSTSPPERTRYSPIPP
+SHHQLTLPDPSHHGLHSTPDSPAKPEKNGHAKDHPKIAKIFEIQTMPNGKTRTSLKTMSR
+RKLSQQKEKKATQMLAIVLGVFIICWLPFFITHILNIHCDCNIPPVLYSAFTWLGYVNSA
+VNPIIYTTFNIEFRKAFLKILHC</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;1332 bp
+ATGGATCCACTGAATCTGTCCTGGTATGATGATGATCTGGAGAGGCAGAACTGGAGCCGG
+CCCTTCAACGGGTCAGACGGGAAGGCGGACAGACCCCACTACAACTACTATGCCACACTG
+CTCACCCTGCTCATCGCTGTCATCGTCTTCGGCAACGTGCTGGTGTGCATGGCTGTGTCC
+CGCGAGAAGGCGCTGCAGACCACCACCAACTACCTGATCGTCAGCCTCGCAGTGGCCGAC
+CTCCTCGTCGCCACACTGGTCATGCCATGGGTTGTCTACCTGGAGGTGGTAGGTGAGTGG
+AAATTCAGCAGGATTCACTGTGACATCTTCGTCACTCTGGACGTCATGATGTGCACGGCG
+AGCATCCTGAACTTGTGTGCCATCAGCATCGACAGGTACACAGCTGTGGCCATGCCCATG
+CTGTACAATACGCGCTACAGCTCCAAGCGCCGGGTCACCGTCATGATCTCCATCGTCTGG
+GTCCTGTCCTTCACCATCTCCTGCCCACTCCTCTTCGGACTCAATAACGCAGACCAGAAC
+GAGTGCATCATTGCCAACCCGGCCTTCGTGGTCTACTCCTCCATCGTCTCCTTCTACGTG
+CCCTTCATTGTCACCCTGCTGGTCTACATCAAGATCTACATTGTCCTCCGCAGACGCCGC
+AAGCGAGTCAACACCAAACGCAGCAGCCGAGCTTTCAGGGCCCACCTGAGGGCTCCACTA
+AAGGGCAACTGTACTCACCCCGAGGACATGAAACTCTGCACCGTTATCATGAAGTCTAAT
+GGGAGTTTCCCAGTGAACAGGCGGAGAGTGGAGGCTGCCCGGCGAGCCCAGGAGCTGGAG
+ATGGAGATGCTCTCCAGCACCAGCCCACCCGAGAGGACCCGGTACAGCCCCATCCCACCC
+AGCCACCACCAGCTGACTCTCCCCGACCCGTCCCACCACGGTCTCCACAGCACTCCTGAC
+AGCCCCGCCAAACCAGAGAAGAATGGGCATGCCAAAGACCACCCCAAGATTGCCAAGATC
+TTTGAGATCCAGACCATGCCCAATGGCAAAACCCGGACCTCCCTCAAGACCATGAGCCGT
+AGAAAGCTCTCCCAGCAGAAGGAGAAGAAAGCCACTCAGATGCTCGCCATTGTTCTCGGC
+GTGTTCATCATCTGCTGGCTGCCCTTCTTCATCACACACATCCTGAACATACACTGTGAC
+TGCAACATCCCGCCTGTCCTGTACAGCGCCTTCACGTGGCTGGGCTATGTCAACAGCGCC
+GTGAACCCCATCATCTACACCACCTTCAACATTGAGTTCCGCAAGGCCTTCCTGAAGATC
+CTTCACTGCTGA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF00001</identifier>
+        <name>7tm_1</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cell</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intrinsic to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>G-protein coupled receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>rhodopsin-like receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>amine receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>signal transducer activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>dopamine receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transmembrane receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell communication</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cell surface receptor linked signal transduction</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>G-protein coupled receptor protein signaling pathway</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="small molecule" created="2014-06-24" updated="2015-01-22">
+  <drugbank-id primary="true">DB09019</drugbank-id>
+  <name>Bromhexine</name>
+  <description>Bromhexine is an expectorant/mucolytic agent. Bromhexine is not available in the United States. It is marketed under the trade name Bisolvon(R) in Germany, England, Belgium, France, Italy, Netherlands, Norway, Sweden, Australia, and South Africa. &#13;
+</description>
+  <cas-number>3572-43-8</cas-number>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references format="textile"/>
+  <synthesis-reference>U.S. Patent 3,336,308.</synthesis-reference>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001092</drugbank-id>
+      <name>Bromhexine Hydrochloride</name>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="">3,5-Dibromo-N(alpha)-cyclohexyl-N(alpha)-methyltoluene-alpha-2-diamine</synonym>
+    <synonym language="" coder="DCIT">Bromexina</synonym>
+    <synonym language="" coder="">Bromhexina</synonym>
+    <synonym language="" coder="">Bromhexinum</synonym>
+    <synonym language="" coder="">Fluibron</synonym>
+    <synonym language="" coder="">N-Cyclohexyl-N-methyl-(2-amino-3,5-dibrombenzyl)amine</synonym>
+    <synonym language="" coder="IS">Tauglicolo</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand company="Boehringer Ingelheim">Amiorel</international-brand>
+    <international-brand company="Boehringer Ingelheim">Bisolmed</international-brand>
+    <international-brand company="Boehringer Ingelheim">Bisolvon</international-brand>
+    <international-brand company="Boehringer Ingelheim">Bisolvon Chesty</international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>4.08</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>3.62e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>4.42</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>2,4-dibromo-6-{[cyclohexyl(methyl)amino]methyl}aniline</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>bromhexine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>376.13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>373.999323944</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CN(CC1=CC(Br)=CC(Br)=C1N)C1CCCCC1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C14H20Br2N2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C14H20Br2N2/c1-18(12-5-3-2-4-6-12)9-10-7-11(15)8-13(16)14(10)17/h7-8,12H,2-6,9,17H2,1H3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>InChIKey=OJGDCBLYJGHCIH-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>29.26</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>85.56</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>32.98</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>19.89</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.32</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>232-235</value>
+      <source>U.S. Patent 3,336,308.</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>77032</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07542</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Bromhexine</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/international/bromhexine.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="small molecule" created="2014-06-24" updated="2015-01-22">
+  <drugbank-id primary="true">DB09020</drugbank-id>
+  <name>Bisacodyl</name>
+  <description>Bisacodyl is an organic compound that is used as a stimulant laxative drug. It works directly on the colon to produce a bowel movement. It is typically prescribed for relief of constipation and for the management of neurogenic bowel dysfunction as well as part of bowel preparation before medical examinations, such as for a colonoscopy.</description>
+  <cas-number>603-50-9</cas-number>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references format="textile"># Stiens SA, Luttrel W, Binard JE: Polyethylene glycol versus vegetable oil based bisacodyl suppositories to initiate side-lying bowel care: a clinical trial in persons with spinal cord injury. Spinal Cord. 1998 Nov;36(11):777-81. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/9848486&#13;
+# Robert Engelhorn, Ernst Seeger and Jan H. Zwaving "Laxatives" in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2000.&#13;
+# Wexner SD, Beck DE, Baron TH, Fanelli RD, Hyman N, Shen B, Wasco KE: A consensus document on bowel preparation before colonoscopy: prepared by a task force from the American Society of Colon and Rectal Surgeons (ASCRS), the American Society for Gastrointestinal Endoscopy (ASGE), and the Society of American Gastrointestinal and Endoscopic Surgeons (SAGES). Gastrointest Endosc. 2006 Jun;63(7):894-909. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/16733101&#13;
+# Kudo K, Miyazaki C, Kadoya R, Imamura T, Jitsufuchi N, Ikeda N: Laxative poisoning: toxicological analysis of bisacodyl and its metabolite in urine, serum, and stool. J Anal Toxicol. 1998 Jul-Aug;22(4):274-8. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/9681329</general-references>
+  <synthesis-reference>U.S. Patent 2,764,590.</synthesis-reference>
+  <indication> Indicated for cleansing of the colon as a preparation for colonoscopy in adults. </indication>
+  <pharmacodynamics>Bisacodyl is hydrolyzed by intestinal brush border enzymes and colonic bacteria to form an active metabolite [bis-(p-hydroxyphenyl) pyridyl-2 methane; (BHPM)] that acts directly on the colonic mucosa to produce colonic peristalsis.</pharmacodynamics>
+  <mechanism-of-action>Induces diarrhea which cleanses the colon. </mechanism-of-action>
+  <toxicity/>
+  <metabolism>Hepatic (CYP450-mediated).</metabolism>
+  <absorption>15%</absorption>
+  <half-life>16 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance>primarily in the feces, systemically absorbed drug is excreted in the urine.</clearance>
+  <salts/>
+  <synonyms>
+    <synonym language="Spanish" coder="INN">Bisacodilo</synonym>
+    <synonym language="German" coder="INN">Bisacodyl</synonym>
+    <synonym language="French" coder="INN">Bisacodyle</synonym>
+    <synonym language="Latin" coder="INN">Bisacodylum</synonym>
+    <synonym language="" coder="">Dulcolax</synonym>
+    <synonym language="" coder="IUPAC">Phenol, 4,4'-(2-pyridinylmethylene)bis-, diacetate (ester)</synonym>
+    <synonym language="" coder="IS">Spirolax</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Fleet</name>
+      <ndc-id>0132-0703_9e1d7272-15c4-4f50-9f45-b24367d3804b</ndc-id>
+      <ndc-product-code>0132-0703</ndc-product-code>
+      <started-marketing-on>2002-05-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>enema</dosage-form>
+      <strength>10 mg/37mL</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fleet</name>
+      <ndc-id>0132-0704_c669742d-f88e-478b-8be4-f0f8039a6825</ndc-id>
+      <ndc-product-code>0132-0704</ndc-product-code>
+      <started-marketing-on>2002-06-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>0363-0326_9e3a9f44-513f-43ea-8036-1ac87d6f16e5</ndc-id>
+      <ndc-product-code>0363-0326</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>0363-0327_421c8735-3636-4238-9554-9017477474cf</ndc-id>
+      <ndc-product-code>0363-0327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Biscolax</name>
+      <ndc-id>0536-1355_17130da6-b270-4a29-a2aa-ab1afe99dde4</ndc-id>
+      <ndc-product-code>0536-1355</ndc-product-code>
+      <started-marketing-on>2002-09-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enteric Coated Stimulant Laxative</name>
+      <ndc-id>0536-3381_28a65991-a53d-4e04-8253-9a9d0c49bf57</ndc-id>
+      <ndc-product-code>0536-3381</ndc-product-code>
+      <started-marketing-on>2011-09-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>0574-7050_7eada0fc-5f83-43da-a56f-b0f537298208</ndc-id>
+      <ndc-product-code>0574-7050</ndc-product-code>
+      <started-marketing-on>1990-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax</name>
+      <ndc-id>0597-0012_8527ae95-fdfd-4b62-9f56-598c2656aeb6</ndc-id>
+      <ndc-product-code>0597-0012</ndc-product-code>
+      <started-marketing-on>2001-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax</name>
+      <ndc-id>0597-0016_26f70cef-c173-4aa7-9d9a-b105cb8fca0a</ndc-id>
+      <ndc-product-code>0597-0016</ndc-product-code>
+      <started-marketing-on>2002-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>gel</dosage-form>
+      <strength>100 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax</name>
+      <ndc-id>0597-0052_53b68e2d-3c20-4178-af00-617a4498fdb3</ndc-id>
+      <ndc-product-code>0597-0052</ndc-product-code>
+      <started-marketing-on>2002-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax Pink</name>
+      <ndc-id>0597-0169_265db5aa-7f7b-b91e-92a3-0aa97b251be5</ndc-id>
+      <ndc-product-code>0597-0169</ndc-product-code>
+      <started-marketing-on>2012-06-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>0603-2483_61e295df-0ed2-4d60-87f0-a60807301183</ndc-id>
+      <ndc-product-code>0603-2483</ndc-product-code>
+      <started-marketing-on>2005-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>0615-0598_8f2fa151-2171-45dc-bd2a-6e7ae4248156</ndc-id>
+      <ndc-product-code>0615-0598</ndc-product-code>
+      <started-marketing-on>1993-09-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisac-evac</name>
+      <ndc-id>0713-0109_84c0edcc-0771-f286-abc7-d6be0300629f</ndc-id>
+      <ndc-product-code>0713-0109</ndc-product-code>
+      <started-marketing-on>1991-05-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Biscolax Laxative</name>
+      <ndc-id>0904-5058_831a479a-8a4c-46e9-a96d-6989f4fc1d73</ndc-id>
+      <ndc-product-code>0904-5058</ndc-product-code>
+      <started-marketing-on>2012-08-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Unit Dose Bisacodyl</name>
+      <ndc-id>0904-6407_178bd5d9-c354-4591-8919-fc86cc008f4b</ndc-id>
+      <ndc-product-code>0904-6407</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Enteric Coated</name>
+      <ndc-id>0904-7927_fb1b1f1a-49ad-47e7-b170-e20ca8e4aeb9</ndc-id>
+      <ndc-product-code>0904-7927</ndc-product-code>
+      <started-marketing-on>2008-10-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Carters Little Pills Sodium-Free</name>
+      <ndc-id>10237-906_cf00d122-5e7c-4efd-8446-0c5b22f51f19</ndc-id>
+      <ndc-product-code>10237-906</ndc-product-code>
+      <started-marketing-on>2011-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>11534-013_6be65bdd-e94a-4682-9977-043741174c59</ndc-id>
+      <ndc-product-code>11534-013</ndc-product-code>
+      <started-marketing-on>2005-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>11534-156_8f6065f1-bb7c-4422-8f81-e6da2e56b22d</ndc-id>
+      <ndc-product-code>11534-156</ndc-product-code>
+      <started-marketing-on>2005-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>11673-120_d2ae0892-1f53-4df3-9291-7643069f9334</ndc-id>
+      <ndc-product-code>11673-120</ndc-product-code>
+      <started-marketing-on>2010-07-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>11822-0326_630a2137-a032-46e2-8a25-99579b12ec6f</ndc-id>
+      <ndc-product-code>11822-0326</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>11822-0327_6fad95fa-f46f-4573-9a1c-193415c3610f</ndc-id>
+      <ndc-product-code>11822-0327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Gentle Laxative</name>
+      <ndc-id>15127-010_2016b153-92fd-4262-8c9c-8d35a946d540</ndc-id>
+      <ndc-product-code>15127-010</ndc-product-code>
+      <started-marketing-on>2000-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>15127-178_7be77de0-d4f7-4e2b-8701-2bbb0356094b</ndc-id>
+      <ndc-product-code>15127-178</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>16103-367_a86fbc38-1f71-4abc-aade-e98304763076</ndc-id>
+      <ndc-product-code>16103-367</ndc-product-code>
+      <started-marketing-on>2006-01-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>21130-326_63bbe644-d54c-4aca-92f6-280531309c55</ndc-id>
+      <ndc-product-code>21130-326</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>21130-327_4b7db120-1f0a-4aa0-acd0-4dc0dabcaf83</ndc-id>
+      <ndc-product-code>21130-327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>24236-199_c61daae8-b0c4-43f0-b923-f2a684c8f7da</ndc-id>
+      <ndc-product-code>24236-199</ndc-product-code>
+      <started-marketing-on>2010-08-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>ANDA075659</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>24385-193_71b39099-f102-419f-84c1-8e2c6d6d43ae</ndc-id>
+      <ndc-product-code>24385-193</ndc-product-code>
+      <started-marketing-on>2010-07-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Enteric Coated</name>
+      <ndc-id>24385-903_45fcb168-ab4d-408f-a6f0-b4596be62fd3</ndc-id>
+      <ndc-product-code>24385-903</ndc-product-code>
+      <started-marketing-on>2011-10-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax</name>
+      <ndc-id>29485-6741_92448d56-6df2-40f1-9d69-2f42999ae3c0</ndc-id>
+      <ndc-product-code>29485-6741</ndc-product-code>
+      <started-marketing-on>2010-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>30142-120_e6ab3da6-8962-479b-ba46-ac88594d7e52</ndc-id>
+      <ndc-product-code>30142-120</ndc-product-code>
+      <started-marketing-on>2011-05-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>30142-191_e98608f7-4c21-49ca-8a1a-1d61a943dbae</ndc-id>
+      <ndc-product-code>30142-191</ndc-product-code>
+      <started-marketing-on>2013-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enteric Coated Stimulant Laxative</name>
+      <ndc-id>33261-178_78f88be7-cf2a-457c-b2ab-3a9144283384</ndc-id>
+      <ndc-product-code>33261-178</ndc-product-code>
+      <started-marketing-on>2011-09-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Topcare Laxative</name>
+      <ndc-id>36800-086_ada29ea7-1b76-4721-a220-3c4fcd39bbb0</ndc-id>
+      <ndc-product-code>36800-086</ndc-product-code>
+      <started-marketing-on>1997-10-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>36800-120_ba6c3654-00e6-4313-bb9f-ab54d3232ef0</ndc-id>
+      <ndc-product-code>36800-120</ndc-product-code>
+      <started-marketing-on>2013-05-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacody Enteric Coated</name>
+      <ndc-id>36800-190_70c8c382-b914-4489-8232-c607820013a3</ndc-id>
+      <ndc-product-code>36800-190</ndc-product-code>
+      <started-marketing-on>2013-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womans Laxative</name>
+      <ndc-id>37012-120_e9c03d25-155e-402a-8023-fd0a573e3c8f</ndc-id>
+      <ndc-product-code>37012-120</ndc-product-code>
+      <started-marketing-on>2010-07-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>37205-102_4e9287f3-87a6-967b-8f68-b81821a4b2fe</ndc-id>
+      <ndc-product-code>37205-102</ndc-product-code>
+      <started-marketing-on>1997-09-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>37205-128_4487b7f9-9351-4b61-a246-1e890677014f</ndc-id>
+      <ndc-product-code>37205-128</ndc-product-code>
+      <started-marketing-on>2011-10-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leader Womens Laxative</name>
+      <ndc-id>37205-298_70d6039d-a379-410d-984a-9ff8cfa599c5</ndc-id>
+      <ndc-product-code>37205-298</ndc-product-code>
+      <started-marketing-on>2007-05-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>37808-326_bbc3582c-ddee-41c5-b82d-d831a8c9864c</ndc-id>
+      <ndc-product-code>37808-326</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>37808-327_889d2cb2-de9e-42b0-bbc7-d5b35525655b</ndc-id>
+      <ndc-product-code>37808-327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womans Laxative</name>
+      <ndc-id>41163-115_74b4be71-9aac-4e2e-acbb-71e7bae73e84</ndc-id>
+      <ndc-product-code>41163-115</ndc-product-code>
+      <started-marketing-on>2013-04-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Enteric Coated</name>
+      <ndc-id>41163-195_8657f854-79eb-4855-8750-94ad3396dfb2</ndc-id>
+      <ndc-product-code>41163-195</ndc-product-code>
+      <started-marketing-on>2013-03-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>41163-326_e1bd4fe8-46a0-478e-ac83-7aa675d51ec8</ndc-id>
+      <ndc-product-code>41163-326</ndc-product-code>
+      <started-marketing-on>2000-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Equaline Laxative</name>
+      <ndc-id>41163-466_5cf74f4f-195d-4d5e-a89c-a574f4b0ff59</ndc-id>
+      <ndc-product-code>41163-466</ndc-product-code>
+      <started-marketing-on>2012-09-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>41163-607_2daf9588-1454-4208-ab4a-b21f538fe2c4</ndc-id>
+      <ndc-product-code>41163-607</ndc-product-code>
+      <started-marketing-on>2013-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Enteric Coated</name>
+      <ndc-id>41250-120_51da9329-9146-45b2-b49e-2cd2807b81b0</ndc-id>
+      <ndc-product-code>41250-120</ndc-product-code>
+      <started-marketing-on>2014-06-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>41250-466_eb965b41-aa2d-44dd-96a2-5111361cd01e</ndc-id>
+      <ndc-product-code>41250-466</ndc-product-code>
+      <started-marketing-on>2012-11-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>41250-640_98171975-cfa7-43f7-8301-9ca58e3eaa1e</ndc-id>
+      <ndc-product-code>41250-640</ndc-product-code>
+      <started-marketing-on>1994-10-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative Stimulant Laxative</name>
+      <ndc-id>41520-019_3aa06c06-a763-4c78-9f47-62d7b95dbbcf</ndc-id>
+      <ndc-product-code>41520-019</ndc-product-code>
+      <started-marketing-on>2010-09-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative For Women stimulant laxative</name>
+      <ndc-id>41520-120_3c672f9c-c84c-46c3-a228-c62c37aeaeee</ndc-id>
+      <ndc-product-code>41520-120</ndc-product-code>
+      <started-marketing-on>2010-07-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Enteric Coated</name>
+      <ndc-id>42507-086_7e8275a6-111b-4eed-a807-41dd29199343</ndc-id>
+      <ndc-product-code>42507-086</ndc-product-code>
+      <started-marketing-on>2010-11-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacody Enteric Coated</name>
+      <ndc-id>42507-190_94e31d02-8de2-42b5-8882-ed3ddc211fd9</ndc-id>
+      <ndc-product-code>42507-190</ndc-product-code>
+      <started-marketing-on>2014-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl stimulant laxative</name>
+      <ndc-id>45802-572_63922da2-a24f-466e-843a-d732ca867e5d</ndc-id>
+      <ndc-product-code>45802-572</ndc-product-code>
+      <started-marketing-on>2012-09-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>45802-710_671ac829-509e-40de-9247-35ea0c5cda27</ndc-id>
+      <ndc-product-code>45802-710</ndc-product-code>
+      <started-marketing-on>2011-05-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>46994-327_90e2a9c9-0680-4cdb-9ce5-45b91e145662</ndc-id>
+      <ndc-product-code>46994-327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Medique Medi-lax</name>
+      <ndc-id>47682-889_601b73c9-ae2d-4c4b-8b06-507d456322d6</ndc-id>
+      <ndc-product-code>47682-889</ndc-product-code>
+      <started-marketing-on>2008-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>49035-326_0b72f53a-d91a-4a9e-b8d6-ea5d91165b96</ndc-id>
+      <ndc-product-code>49035-326</ndc-product-code>
+      <started-marketing-on>2000-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>49035-327_cab4cdb5-6333-455f-86bb-4b98f9cad8a5</ndc-id>
+      <ndc-product-code>49035-327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sunmark Womans Laxative</name>
+      <ndc-id>49348-223_df5055cf-5cdc-4928-8287-f1ba37b6f8a0</ndc-id>
+      <ndc-product-code>49348-223</ndc-product-code>
+      <started-marketing-on>2003-09-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Laxative</name>
+      <ndc-id>49348-598_82c6ecbf-31e4-4029-9d12-1342b602f99c</ndc-id>
+      <ndc-product-code>49348-598</ndc-product-code>
+      <started-marketing-on>2005-08-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative Enteric Coated</name>
+      <ndc-id>49348-599_93b9892a-eb53-45d1-9e30-cb99485c998e</ndc-id>
+      <ndc-product-code>49348-599</ndc-product-code>
+      <started-marketing-on>2013-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womans Laxative</name>
+      <ndc-id>49348-920_6220eb74-1c4f-4e22-9887-70da296c24cd</ndc-id>
+      <ndc-product-code>49348-920</ndc-product-code>
+      <started-marketing-on>2010-07-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Stimulant Laxative</name>
+      <ndc-id>49483-003_ade947ae-a71d-4b8e-9d51-c905ff9bd269</ndc-id>
+      <ndc-product-code>49483-003</ndc-product-code>
+      <started-marketing-on>2014-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>New Correct</name>
+      <ndc-id>49483-046_8da3d6dc-fb6e-48f5-bacb-5ab1c5ec9e30</ndc-id>
+      <ndc-product-code>49483-046</ndc-product-code>
+      <started-marketing-on>2008-08-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>The Medicine Shoppe Gentle Laxative</name>
+      <ndc-id>49614-131_22cdf899-52f4-417f-93e4-a42881bd11cf</ndc-id>
+      <ndc-product-code>49614-131</ndc-product-code>
+      <started-marketing-on>2011-10-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Laxative</name>
+      <ndc-id>49614-133_39b6ed99-c766-4ee9-87a6-f953c0742ddc</ndc-id>
+      <ndc-product-code>49614-133</ndc-product-code>
+      <started-marketing-on>2008-03-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Gentle Laxative</name>
+      <ndc-id>49738-120_0dfcd931-fdfe-420b-b48e-37ba604ad205</ndc-id>
+      <ndc-product-code>49738-120</ndc-product-code>
+      <started-marketing-on>2014-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leader Gentle Laxative</name>
+      <ndc-id>49781-131_94b715e1-31cc-4bcf-b1d9-3648a9182bc8</ndc-id>
+      <ndc-product-code>49781-131</ndc-product-code>
+      <started-marketing-on>2015-02-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg/2000mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>50730-1004_2e9ca551-7499-44bf-b013-228f7e3bdff1</ndc-id>
+      <ndc-product-code>50730-1004</ndc-product-code>
+      <started-marketing-on>2009-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>50730-1016_7c90787f-4b8f-48a9-a416-35d7c5f1b5e8</ndc-id>
+      <ndc-product-code>50730-1016</ndc-product-code>
+      <started-marketing-on>2009-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>50804-120_dd246c36-350d-4235-9de2-6e3b9d842f95</ndc-id>
+      <ndc-product-code>50804-120</ndc-product-code>
+      <started-marketing-on>2013-04-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Laxative Enteric Coated</name>
+      <ndc-id>50804-190_15954078-fd6b-41e5-af97-2a9a037614b3</ndc-id>
+      <ndc-product-code>50804-190</ndc-product-code>
+      <started-marketing-on>2010-07-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>50844-607_c2ad9f0e-9028-43df-afcc-fb80f8023c75</ndc-id>
+      <ndc-product-code>50844-607</ndc-product-code>
+      <started-marketing-on>2013-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>54162-006_63a99d4b-5b19-41c8-88d8-6582011e4ec7</ndc-id>
+      <ndc-product-code>54162-006</ndc-product-code>
+      <started-marketing-on>2012-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>.01 g/2g</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>54162-006_8efe13b6-db32-4e53-a498-5015d6853119</ndc-id>
+      <ndc-product-code>54162-006</ndc-product-code>
+      <started-marketing-on>2012-02-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>.01 g/2g</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax</name>
+      <ndc-id>54868-0016_6dee501e-2e58-4ff2-901b-8f8693c776b7</ndc-id>
+      <ndc-product-code>54868-0016</ndc-product-code>
+      <started-marketing-on>2010-05-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Stimulant Laxative</name>
+      <ndc-id>54868-2497_cc8e31d5-d163-400a-9ffe-7beeae5186fa</ndc-id>
+      <ndc-product-code>54868-2497</ndc-product-code>
+      <started-marketing-on>2011-09-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax</name>
+      <ndc-id>54868-3155_5264120b-3fa4-42c6-a517-1d1abc71421a</ndc-id>
+      <ndc-product-code>54868-3155</ndc-product-code>
+      <started-marketing-on>2011-03-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>55154-1951_8ce50351-1db0-43de-9885-b33fd391305e</ndc-id>
+      <ndc-product-code>55154-1951</ndc-product-code>
+      <started-marketing-on>2011-06-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Gentle Laxative</name>
+      <ndc-id>55301-623_f263c374-4d3a-47b2-b363-e498d3b736d8</ndc-id>
+      <ndc-product-code>55301-623</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>55312-120_22ee7424-21fb-4a02-98b1-db1d230aeae0</ndc-id>
+      <ndc-product-code>55312-120</ndc-product-code>
+      <started-marketing-on>2010-07-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>55312-466_c4334f39-08f0-4dfd-8a1a-596f2ddc2aff</ndc-id>
+      <ndc-product-code>55312-466</ndc-product-code>
+      <started-marketing-on>2013-02-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>55315-190_c3553c4f-9b27-4ded-be5b-78c034290f3f</ndc-id>
+      <ndc-product-code>55315-190</ndc-product-code>
+      <started-marketing-on>2010-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Gentle Laxative</name>
+      <ndc-id>55315-326_934276b2-384c-47f3-8f1d-7e5f03708e13</ndc-id>
+      <ndc-product-code>55315-326</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womans Laxative</name>
+      <ndc-id>55316-174_00e75f3a-e18a-4e7e-91ed-4bf88da532fd</ndc-id>
+      <ndc-product-code>55316-174</ndc-product-code>
+      <started-marketing-on>2010-09-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>55316-190_becfd268-1f13-446f-b9e0-f7f48787efb4</ndc-id>
+      <ndc-product-code>55316-190</ndc-product-code>
+      <started-marketing-on>2014-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>55319-195_b5089ed5-dce4-4825-b032-20b535f1a652</ndc-id>
+      <ndc-product-code>55319-195</ndc-product-code>
+      <started-marketing-on>2013-06-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative For Women</name>
+      <ndc-id>55319-326_fa066179-888e-4c03-9cb0-841acfc07f1e</ndc-id>
+      <ndc-product-code>55319-326</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womans Laxative</name>
+      <ndc-id>55910-120_32a29b79-d7ad-45b3-8803-d2be28ceaa3d</ndc-id>
+      <ndc-product-code>55910-120</ndc-product-code>
+      <started-marketing-on>2013-06-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Enteric Coated</name>
+      <ndc-id>55910-190_684d2341-f758-40d3-b693-dc90927ef3ed</ndc-id>
+      <ndc-product-code>55910-190</ndc-product-code>
+      <started-marketing-on>2013-06-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>55910-327_61002503-ae28-45cd-a914-f28f1e011dc1</ndc-id>
+      <ndc-product-code>55910-327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Stimulant Laxative Enteric Coated</name>
+      <ndc-id>57896-441_d3135762-496a-45a2-b8af-beb72f3d168a</ndc-id>
+      <ndc-product-code>57896-441</ndc-product-code>
+      <started-marketing-on>2000-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Enteric Coated</name>
+      <ndc-id>58118-7927_f97e277d-2fb1-4fad-845a-a1d5541dad73</ndc-id>
+      <ndc-product-code>58118-7927</ndc-product-code>
+      <started-marketing-on>2008-10-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Stratuscare Bisacodyl</name>
+      <ndc-id>58980-415_3b25df6c-a937-4956-9435-5c41b66c3ef9</ndc-id>
+      <ndc-product-code>58980-415</ndc-product-code>
+      <started-marketing-on>2014-05-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Enteric Coated</name>
+      <ndc-id>59726-190_49157bb5-7cef-4d47-9308-e4c6c9b14325</ndc-id>
+      <ndc-product-code>59726-190</ndc-product-code>
+      <started-marketing-on>2010-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>C Lax Laxative</name>
+      <ndc-id>59779-120_84aadc71-65b1-40d4-83f7-0c5d5c936822</ndc-id>
+      <ndc-product-code>59779-120</ndc-product-code>
+      <started-marketing-on>2013-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>59779-327_b95209ae-6869-4bd2-9cb1-fcac811399a3</ndc-id>
+      <ndc-product-code>59779-327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>C-lax Laxative</name>
+      <ndc-id>59779-632_ec3a18bc-e10d-4d4b-aea4-3da2c969ef1f</ndc-id>
+      <ndc-product-code>59779-632</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>59779-640_bfea1aa9-876c-4481-adc5-577931a65ab3</ndc-id>
+      <ndc-product-code>59779-640</ndc-product-code>
+      <started-marketing-on>2005-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Gentle Laxative</name>
+      <ndc-id>59779-706_2b2e92b2-7f9e-42f6-a9e1-c90026ff63e4</ndc-id>
+      <ndc-product-code>59779-706</ndc-product-code>
+      <started-marketing-on>2013-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacody Enteric Coated</name>
+      <ndc-id>59779-990_ff03992a-4a49-4361-a481-fd0f5184c425</ndc-id>
+      <ndc-product-code>59779-990</ndc-product-code>
+      <started-marketing-on>2013-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Stimulant Laxative Enteric Coated</name>
+      <ndc-id>61715-038_9f475ecc-453d-477c-a44d-23402a2423ac</ndc-id>
+      <ndc-product-code>61715-038</ndc-product-code>
+      <started-marketing-on>2010-07-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Gentle Laxative</name>
+      <ndc-id>61715-039_21837bdc-65e0-480c-8aa3-b54fee034275</ndc-id>
+      <ndc-product-code>61715-039</ndc-product-code>
+      <started-marketing-on>2010-08-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>62011-0159_a9cf8b58-2b55-466d-8210-fc878252c4ef</ndc-id>
+      <ndc-product-code>62011-0159</ndc-product-code>
+      <started-marketing-on>2012-06-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Health Sense Ducodyl</name>
+      <ndc-id>62107-030_0a66d57a-4343-5c87-e054-00144ff88e88</ndc-id>
+      <ndc-product-code>62107-030</ndc-product-code>
+      <started-marketing-on>2006-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Enteric Coated Stimulant Laxative</name>
+      <ndc-id>63629-3049_2be4867b-cb90-4c80-a482-d0c4f2221a5d</ndc-id>
+      <ndc-product-code>63629-3049</ndc-product-code>
+      <started-marketing-on>2011-09-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, delayed release</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>63868-209_d26acc88-5087-46ad-962f-41ed0dcec888</ndc-id>
+      <ndc-product-code>63868-209</ndc-product-code>
+      <started-marketing-on>2014-08-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>63868-328_545418af-ffb3-4c46-9548-c4ecf71b1b7d</ndc-id>
+      <ndc-product-code>63868-328</ndc-product-code>
+      <started-marketing-on>2007-12-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womans Laxative</name>
+      <ndc-id>63941-120_21740fb9-185a-4817-b76c-2b82eaa203ca</ndc-id>
+      <ndc-product-code>63941-120</ndc-product-code>
+      <started-marketing-on>2010-07-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Best Choice Bisacodyl Laxative</name>
+      <ndc-id>63941-190_77e06924-afaa-4b7f-a4b2-c14d1250e981</ndc-id>
+      <ndc-product-code>63941-190</ndc-product-code>
+      <started-marketing-on>2012-11-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>64092-120_3c188b1d-5854-48e8-b92e-ab841fa51112</ndc-id>
+      <ndc-product-code>64092-120</ndc-product-code>
+      <started-marketing-on>2000-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Gentle</name>
+      <ndc-id>67091-215_91f8bbc5-6b84-4abd-8f8d-411c54016942</ndc-id>
+      <ndc-product-code>67091-215</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative Womens</name>
+      <ndc-id>67091-216_a0f12627-72f0-40a6-b94c-b771c6c0b379</ndc-id>
+      <ndc-product-code>67091-216</ndc-product-code>
+      <started-marketing-on>2000-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Enteric Coated</name>
+      <ndc-id>67544-655_88c9255c-f367-4bfa-9179-15d0ac6d326a</ndc-id>
+      <ndc-product-code>67544-655</ndc-product-code>
+      <started-marketing-on>2008-10-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl Enteric Coated</name>
+      <ndc-id>68151-2749_36ef72d5-14b1-4eae-802e-4dd749930e0f</ndc-id>
+      <ndc-product-code>68151-2749</ndc-product-code>
+      <started-marketing-on>2008-10-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Y Lax Dr</name>
+      <ndc-id>68210-0001_bc82778e-46c6-4bc3-86f8-c6209faeb8bf</ndc-id>
+      <ndc-product-code>68210-0001</ndc-product-code>
+      <started-marketing-on>2010-05-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, sugar coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>P Lax Dr</name>
+      <ndc-id>68210-0002_5d1f922b-62f7-41e7-849d-6bc036138e59</ndc-id>
+      <ndc-product-code>68210-0002</ndc-product-code>
+      <started-marketing-on>2010-05-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, sugar coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bisacodyl</name>
+      <ndc-id>68784-102_80ab9dbd-08db-4aa1-afff-6daf6987b2b7</ndc-id>
+      <ndc-product-code>68784-102</ndc-product-code>
+      <started-marketing-on>2005-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>suppository</dosage-form>
+      <strength>10 mg</strength>
+      <route>rectal</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Crh Medsense Bisacodyl Stimulant Laxative</name>
+      <ndc-id>69041-002_0283e6fb-63e4-4fb5-ae0d-1004e2335f59</ndc-id>
+      <ndc-product-code>69041-002</ndc-product-code>
+      <started-marketing-on>2014-09-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Laxative</name>
+      <ndc-id>69168-226_b5d0bdf6-d934-4d79-bc66-5c25c1bfe99c</ndc-id>
+      <ndc-product-code>69168-226</ndc-product-code>
+      <started-marketing-on>2014-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Womens Laxative</name>
+      <ndc-id>70253-326_273e35f7-d797-492c-925e-70db6354ce21</ndc-id>
+      <ndc-product-code>70253-326</ndc-product-code>
+      <started-marketing-on>2005-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gentle Laxative</name>
+      <ndc-id>70253-327_45427f80-0aa3-4c73-9b0d-cd165699556e</ndc-id>
+      <ndc-product-code>70253-327</ndc-product-code>
+      <started-marketing-on>2002-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Simpex Bisacodyl Laxative</name>
+      <ndc-id>76457-003_c31b1400-a62b-4319-84ff-f76c5e86b3b9</ndc-id>
+      <ndc-product-code>76457-003</ndc-product-code>
+      <started-marketing-on>2013-11-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet, coated</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ez2go Stimu-lax</name>
+      <ndc-id>76470-004_4c6d1760-38d1-462d-a339-b753ba6f4ee9</ndc-id>
+      <ndc-product-code>76470-004</ndc-product-code>
+      <started-marketing-on>2012-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>5 mg/5mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ez2go</name>
+      <ndc-id>76470-010_46542eb5-cac5-478f-bafa-05cfa0236d55</ndc-id>
+      <ndc-product-code>76470-010</ndc-product-code>
+      <started-marketing-on>2015-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>pill</dosage-form>
+      <strength>5 mg/5mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ez2go</name>
+      <ndc-id>76470-011_28d15e11-d886-43b9-b50f-63adf496eddf</ndc-id>
+      <ndc-product-code>76470-011</ndc-product-code>
+      <started-marketing-on>2015-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>pill</dosage-form>
+      <strength>5 mg/5mg</strength>
+      <route>oral</route>
+      <fda-application-number>part334</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Dulcolax</name>
+      <ndc-id/>
+      <ndc-product-code/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>tablet (enteric-coated)</dosage-form>
+      <strength>5 mg</strength>
+      <route>oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand company="Actavis">Bisalax</international-brand>
+    <international-brand company="Unifarma">Bolax</international-brand>
+    <international-brand company="Boots">Boots Constipation Relief</international-brand>
+    <international-brand company="Carter">Carter's Little Pills</international-brand>
+    <international-brand company="Nisshin Seiyaku">Derderance</international-brand>
+    <international-brand company="Boehringer Ingelheim">Dulco-Lax</international-brand>
+    <international-brand company="Boehringer Ingelheim">Dulcolaxo</international-brand>
+    <international-brand company="Baxter">Fleet Laxative</international-brand>
+    <international-brand company="Boehringer Ingelheim">Florisan</international-brand>
+    <international-brand company="Ranbaxy">Laxitab</international-brand>
+    <international-brand company="Teva">Reliable Gentle Laxative Tablets</international-brand>
+    <international-brand company="GlaxoSmithKline">Verecolene C.M.</international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Enema</form>
+      <route>rectal</route>
+      <strength>10 mg/37mL</strength>
+    </dosage>
+    <dosage>
+      <form>Gel</form>
+      <route>oral</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Pill</form>
+      <route>oral</route>
+      <strength>5 mg/5mg</strength>
+    </dosage>
+    <dosage>
+      <form>Suppository</form>
+      <route>rectal</route>
+      <strength>.01 g/2g</strength>
+    </dosage>
+    <dosage>
+      <form>Suppository</form>
+      <route>rectal</route>
+      <strength>10 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Suppository</form>
+      <route>rectal</route>
+      <strength>10 mg/2000mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>oral</route>
+      <strength>5 mg/5mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet (enteric-coated)</form>
+      <route>oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, delayed release</form>
+      <route>oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, sugar coated</form>
+      <route>oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents>
+    <patent>
+      <number>2764590</number>
+      <country>United States</country>
+      <approved>1953-03-16</approved>
+      <expires>1973-03-16</expires>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>4.71</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.5</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.27e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.61</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>4-{[4-(acetyloxy)phenyl](pyridin-2-yl)methyl}phenyl acetate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>bicol</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>361.3906</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>361.131408101</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC(=O)OC1=CC=C(C=C1)C(C1=CC=C(OC(C)=O)C=C1)C1=CC=CC=N1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C22H19NO4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C22H19NO4/c1-15(24)26-19-10-6-17(7-11-19)22(21-5-3-4-14-23-21)18-8-12-20(13-9-18)27-16(2)25/h3-14,22H,1-2H3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>InChIKey=KHOITXIGCFIULA-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>65.49</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>100.15</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>38.48</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>4.08</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>138</value>
+      <source>U.S. Patent 2,764,590.</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D00245</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>National Drug Code Directory</resource>
+      <identifier>0904-7927-60</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Bisacodyl</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/monograph/bisacodyl.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="small molecule" created="2014-06-24" updated="2015-01-26">
+  <drugbank-id primary="true">DB09021</drugbank-id>
+  <name>Benzoctamine</name>
+  <description>Benzoctamine is a drug that possesses sedative and anxiolytic properties. It is different from most sedative drugs because in most clinical trials it does not produce respiratory depression, but actually stimulates the respiratory system. Benzoctamine has been found to have the same efficacy as chlordiazepoxide when treating anxiety neurosis.</description>
+  <cas-number>10085-81-1</cas-number>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references format="textile"># Lippmann W, Pugsley TA: Effects of benzoctamine and chlordiazepoxide on turnover and uptake of 5-hydroxytryptamine in the brain. Br J Pharmacol. 1974 Aug;51(4):571-5. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/4480288</general-references>
+  <synthesis-reference>U.S. Patent 3,399,201.</synthesis-reference>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism>Primarily hepatic.</metabolism>
+  <absorption/>
+  <half-life>2 to 3 hours.</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001093</drugbank-id>
+      <name>Benzoctamine hydrochloride</name>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="" coder="IUPAC">N-Methyl-9,10-ethanoanthracene-9(10H)-methanamine</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand company="Ciba-Geigy">Tacitin </international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents>
+    <patent>
+      <number>3399201</number>
+      <country>United States</country>
+      <approved>1966-04-12</approved>
+      <expires>1986-04-12</expires>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties/>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>320-322</value>
+      <source>U.S. Patent 3,399,201.</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D03089</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Benzoctamine</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="small molecule" created="2014-06-25" updated="2015-01-22">
+  <drugbank-id primary="true">DB09022</drugbank-id>
+  <name>Benfluorex</name>
+  <description>Benfluorex is an anorectic and hypolipidemic agent that is structurally related to fenfluramine. It was patented and manufactured by a French pharmaceutical company Servier. &#13;
+&#13;
+On 18 December 2009, the European Medicines Agency (EMEA) recommended the withdrawal of all medicines containing benfluorex in the European Union, because their risks, particularly the risk of heart valve disease (fenfluramine-like cardiovascular side-effects), are greater than their benefits.</description>
+  <cas-number>23602-78-0</cas-number>
+  <groups>
+    <group>withdrawn</group>
+  </groups>
+  <general-references format="textile"># Moulin P, Andre M, Alawi H, dos Santos LC, Khalid AK, Koev D, Moore R, Serban V, Picandet B, Francillard M: Efficacy of benfluorex in combination with sulfonylurea in type 2 diabetic patients: an 18-week, randomized, double-blind study. Diabetes Care. 2006 Mar;29(3):515-20. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/16505498&#13;
+# Roger P, Auclair J, Drain P: Addition of benfluorex to biguanide improves glycemic control in obese non-insulin-dependent diabetes: a double-blind study versus placebo. J Diabetes Complications. 1999 Mar-Apr;13(2):62-7. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/10432168&#13;
+# Weissman NJ: Appetite suppressants and valvular heart disease. Am J Med Sci. 2001 Apr;321(4):285-91. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/11307869</general-references>
+  <synthesis-reference>U.S. Patent 3,607,909.</synthesis-reference>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001094</drugbank-id>
+      <name>Benfluorex Hydrochloride</name>
+      <cas-number/>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="Latin" coder="INN">Benfluorexum</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand company="CCM">Axal</international-brand>
+    <international-brand company="Servier">Lipascor</international-brand>
+    <international-brand company="Servier">Mediaxal</international-brand>
+    <international-brand company="Servier">Mediaxal</international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>4.26</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.28e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>4.92</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>2-({1-[3-(trifluoromethyl)phenyl]propan-2-yl}amino)ethyl benzoate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>benfluorex</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>351.3628</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>351.144613504</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC(CC1=CC(=CC=C1)C(F)(F)F)NCCOC(=O)C1=CC=CC=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C19H20F3NO2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1/C19H20F3NO2/c1-14(12-15-6-5-9-17(13-15)19(20,21)22)23-10-11-25-18(24)16-7-3-2-4-8-16/h2-9,13-14,23H,10-12H2,1H3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>InChIKey=CJAVTWRYCDNHSM-UHFFFAOYNA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>38.33</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>90.57</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>34.83</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>518415</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07192</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Benfluorex</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/international/benfluorex.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="small molecule" created="2014-06-25" updated="2015-01-20">
+  <drugbank-id primary="true">DB09023</drugbank-id>
+  <name>Benactyzine</name>
+  <description>Benactyzine is an anticholinergic drug used as an antidepressant in the treatment of depression and associated anxiety.&#13;
+&#13;
+Benactyzine is no longer widely used in medicine, although it is still a useful drug for scientific research. It does not possess any antihistamine properties.</description>
+  <cas-number>302-40-9</cas-number>
+  <groups>
+    <group>withdrawn</group>
+  </groups>
+  <general-references format="textile"># McLaughlin B, Rickels K, Abidi M, Toro R: Meprobamate-benactyzine (Deprol) and placebo in two depressed outpatient populations. Psychosomatics. 1969 Mar-Apr;10(2):73-81. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/4891208</general-references>
+  <synthesis-reference>U.S. Patent 2,394,770.</synthesis-reference>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="PH: JP XV">Methylbenactyzium Bromide</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand company="">Cedad</international-brand>
+    <international-brand company="">Cevanol</international-brand>
+    <international-brand company="">Deprol</international-brand>
+    <international-brand company="">Lucidil</international-brand>
+    <international-brand company="">Morcain</international-brand>
+    <international-brand company="">Nutinal</international-brand>
+    <international-brand company="">Parasan</international-brand>
+    <international-brand company="">Phebex</international-brand>
+    <international-brand company="">Phobex</international-brand>
+    <international-brand company="Merck">Suavitil</international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Anxiolit plus</name>
+      <ingredients>Benactyzine and Oxazepam</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>3.45</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-3.2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.88e-01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>3.44</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>2-(diethylamino)ethyl 2-hydroxy-2,2-diphenylacetate</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>benactyzine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>327.4174</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>327.183443671</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CCN(CC)CCOC(=O)C(O)(C1=CC=CC=C1)C1=CC=CC=C1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C20H25NO3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C20H25NO3/c1-3-21(4-2)15-16-24-19(22)20(23,17-11-7-5-8-12-17)18-13-9-6-10-14-18/h5-14,23H,3-4,15-16H2,1-2H3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>InChIKey=IVQOFBKHQCTVQV-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>49.77</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>95.77</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>36.65</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>11.05</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>8.96</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>177-178 (Hydrochloride salt)</value>
+      <source>U.S. Patent 2,394,770.</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07498</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Benactyzine</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/international/benactyzine.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="biotech" created="2014-08-07" updated="2014-11-10">
+  <drugbank-id primary="true">DB09024</drugbank-id>
+  <name>Follitropin Alpha</name>
+  <description>Follitropin alpha is a human follicle stimulating hormone (FSH) preparation of recombinant DNA origin, which consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Follitropin alpha was the world’s first recombinant human FSH preparation and is produced in genetically engineered Chinese hamster cell lines (CHO). The nomenclature “alpha” differentiates it from another recombinant human FSH product that was marketed later as follitropin beta. Numerous physio-chemical tests and bioassays indicate that follitropin beta and follitropin alpha are indistinguishable. However, a more recent study showed there is may be a slight clinical difference, with the alpha form tending towards a higher pregnancy rate and the beta form tending towards a lower pregnancy rate, but with significantly higher estradiol (E2) levels. Structural analysis shows that the amino acid sequence of follitropin beta is identical to that of natural human follicle stimulating hormone (FSH). Further, the ogliosaccharide side chains are very similar, but not completely identical to that of natural FSH. However, these small differences do not affect the bioactivity compared to natural FSH.</description>
+  <cas-number>56832-30-5</cas-number>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references format="textile">#'GONAL-F® (Follitropin Alfa For Injection)'. (2012): n. pag. Web. 11 Nov. 2014.&#13;
+</general-references>
+  <synthesis-reference># http://www.ncbi.nlm.nih.gov/pubmed/9079412</synthesis-reference>
+  <indication>In women having been diagnosed with primary ovarian failure, it is used in combination with human chorionic gonadotropin (hCG) to assist in ovulation and fertility. In men with hypogonadotrophic hypogonadism, it is used to induce spermatogenesis. Follitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF). </indication>
+  <pharmacodynamics>The main pharmacodynamic parameters are serum inhibin, estradiol and total follicular volume with daily injections of follitropin. The quickest response was noticed with serum inhibin, which declined rapidly after discontinuation. Follicular growth showed late response and continued even after discontinuation of the drug and after decline of the serum concentrations. Thus follicular growth was better correlated with serum inhibin and estradiol rather than peal levels of the drug. It should be noted that there is great inter-individual variability.</pharmacodynamics>
+  <mechanism-of-action>Follitropin is important for spermatogenesis, gonadal steroid production and follicule growth and maturation . </mechanism-of-action>
+  <toxicity>Headaches, ovarian cysts, nausea and upper respiratory tract infections occurred in more than 10% of women in clinical trials. In men, the most serious adverse events reported were testicular surgery for cryptorchidism which existed prestudy, hemoptysis, an infected pilonidal cyst, and lymphadenopathy associated with an Epstein-Barr viral infection. Other concerns include overstimulation of the ovaries, pulmonary and vascular complications and multiple births. Post-marketing reports revealed hypersensitivity reactions including anaphylactoid reactions and asthma. Follitropin is contraindicated in pregnant women. No studies have been done in nursing mothers. </toxicity>
+  <metabolism/>
+  <absorption>The absorption rate is the main driving force behind the pharmokinetics of Follitropin alpha as the rate of absorption was found to be slower than the elimination rate after administration subcutaneously and intramuscularly. The bioavailability is approximately 66-76%. The time to peak after subcutaneous injection in healthy volunteers was 8-16 hours in females and 11-20 hours in males.</absorption>
+  <half-life>Elimination half-life in healthy female volunteers after subcutaneous injection was 24-53 hours and in males it was 32-41 hours. </half-life>
+  <protein-binding/>
+  <route-of-elimination>Via liver and kidneys.</route-of-elimination>
+  <volume-of-distribution>No significant difference is expected in the pharmacokinetics in males and females after subcutaneous injections. Studies in healthy females after intravenous administration seem to suggest that the distribution may follow a two-compartment model with a distribution half-life of 2 to 2.5 hours. Steady state concentrations are reached after 4 to 5 days of daily administration.</volume-of-distribution>
+  <clearance>Total clearance after IV administration is 0.6L/h and the renal clearance is 0.07L/h. </clearance>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">Follitrophin alfa</synonym>
+    <synonym language="" coder="">Follitrophin alpha</synonym>
+    <synonym language="" coder="">Follitropin alfa</synonym>
+    <synonym language="" coder="">Follitropin alpha</synonym>
+    <synonym language="" coder="">FSH alpha</synonym>
+    <synonym language="" coder="">FSH-a</synonym>
+    <synonym language="" coder="">FSH-A</synonym>
+    <synonym language="" coder="">rFSH-alpha</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Gonal-f Rff</name>
+      <ndc-id>44087-9005_438e6eec-7cf2-445a-8b2d-065041523d43</ndc-id>
+      <ndc-product-code>44087-9005</ndc-product-code>
+      <started-marketing-on>2004-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>kit</dosage-form>
+      <strength/>
+      <route>subcutaneous</route>
+      <fda-application-number>NDA021765</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gonal-f</name>
+      <ndc-id>44087-9030_79aa68e2-11a6-4556-a4f2-51f2e9a9afd6</ndc-id>
+      <ndc-product-code>44087-9030</ndc-product-code>
+      <started-marketing-on>2004-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>kit</dosage-form>
+      <strength/>
+      <route>subcutaneous</route>
+      <fda-application-number>NDA020378</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gonal-f</name>
+      <ndc-id>44087-9070_79aa68e2-11a6-4556-a4f2-51f2e9a9afd6</ndc-id>
+      <ndc-product-code>44087-9070</ndc-product-code>
+      <started-marketing-on>2004-03-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>kit</dosage-form>
+      <strength/>
+      <route>subcutaneous</route>
+      <fda-application-number>NDA020378</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand company="">Cinnal-f</international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route>subcutaneous</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="biotech" created="2014-10-13" updated="2014-10-13">
+  <drugbank-id primary="true">DB09026</drugbank-id>
+  <drugbank-id>DB01258</drugbank-id>
+  <name>Aliskiren</name>
+  <description/>
+  <cas-number/>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references format="textile"/>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Rasilez</name>
+      <ndc-id/>
+      <ndc-product-code/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>150 mg</strength>
+      <route>oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rasilez</name>
+      <ndc-id/>
+      <ndc-product-code/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>tablet</dosage-form>
+      <strength>300 mg</strength>
+      <route>oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Tablet</form>
+      <route>oral</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>oral</route>
+      <strength>300 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00346</drugbank-id>
+      <name>Alfuzosin</name>
+      <description>Monitor therapy due to enhanced hypotensive effect of aliskiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01143</drugbank-id>
+      <name>Amifostine</name>
+      <description>Amifostine hypotensive effect can be exacerbated with administration of antihypertensives. If amifostine is administered, no antihypertensives should be administered within 24 hours. If the antihypertensives can't be withheld, amifostine should not be administered.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01076</drugbank-id>
+      <name>Atorvastatin</name>
+      <description>Therapy modification should be considered because atorvastatin increases aliskiren serum concentration.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00484</drugbank-id>
+      <name>Brimonidine</name>
+      <description>Monitor therapy because of enhanced hypotensive effect.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08907</drugbank-id>
+      <name>Canagliflozin</name>
+      <description>Monitor therapy because canagliflozin may enhance aliskiren antihypertensive and hyperkalemic effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>Avoid combination because cyclosporine increases aliskiren serum concentration.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01119</drugbank-id>
+      <name>Diazoxide</name>
+      <description>Monitor therapy due to enhanced hypotensive effect of aliskiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>Monitor therapy due to enhanced orthostatic hypotensive effect of duloxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00695</drugbank-id>
+      <name>Furosemide</name>
+      <description>Monitor therapy due to potential decreased serum concentration of furosemide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>Monitor therapy due to enhanced hyperkalemic effect of aliskiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01167</drugbank-id>
+      <name>Itraconazole</name>
+      <description>Avoid combination due to increased serum concentration of aliskiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01026</drugbank-id>
+      <name>Ketoconazole</name>
+      <description>Monitor therapy due to increased serum concentration of aliskiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00422</drugbank-id>
+      <name>Methylphenidate</name>
+      <description>Monitor therapy due to reduced antihypertensive effect of aliskiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>Obinutuzumab antihypertensive effect may be enhanced. Administration of antihypertensives should be withheld 12 hours before infusion of obinutuzumab and 1 hour after the end of infusion. </description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>Monitor therapy due to enhanced antihypertensive effects of aliskiren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>Consider therapy modification due to enhanced hypotensive effect of rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>Monitor therapy due to increased concentration of aliskiren. </description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01392</drugbank-id>
+      <name>Yohimbine</name>
+      <description>Monitor therapy due to decreased antihypertensive effects of aliskiren. </description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties/>
+  <external-identifiers/>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="small molecule" created="2014-12-19" updated="2014-12-22">
+  <drugbank-id primary="true">DB09028</drugbank-id>
+  <name>Cytisine</name>
+  <description>Cytisine is an alkaloid that is found naturally in several plant genera such as Laburnum and Cytisus of the family Fabaceae. Recent studies have shown it to be a more effective and significantly more affordable smoking cessation treatment than nicotine replacement therapy. Also known as baptitoxine or sophorine, cytisine has been used as a smoking cessation treatment since 1964, and is relatively unknown in regions outside of central and Eastern Europe. Cytisine is a partial nicotinic acetylcholine agonist with a half-life of 4.8 hours. Recent Phase III clinical trials using Tabex (a brand of Cytisine marketed by Sopharma AD) have shown similar efficacy to varenicline, but at a fraction of the cost. </description>
+  <cas-number>485-35-8</cas-number>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references format="textile"># Walker N, Howe C, Glover M, McRobbie H, Barnes J, Nosa V, Parag V, Bassett B, Bullen C: Cytisine versus nicotine for smoking cessation. N Engl J Med. 2014 Dec 18;371(25):2353-62. doi: 10.1056/NEJMoa1407764. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/25517706&#13;
+# http://www.tabex.net/tabex-patient-use-details.php&#13;
+# Houlihan LM, Slater Y, Guerra DL, Peng JH, Kuo YP, Lukas RJ, Cassels BK, Bermudez I: Activity of cytisine and its brominated isosteres on recombinant human alpha7, alpha4beta2 and alpha4beta4 nicotinic acetylcholine receptors. J Neurochem. 2001 Sep;78(5):1029-43. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/11553677&#13;
+# Tutka P, Zatonski W: Cytisine for the treatment of nicotine addiction: from a molecule to therapeutic efficacy. Pharmacol Rep. 2006 Nov-Dec;58(6):777-98. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/17220536&#13;
+# Cooper JC, Gutbrod O, Witzemann V, Methfessel C: Pharmacology of the nicotinic acetylcholine receptor from fetal rat muscle expressed in Xenopus oocytes. Eur J Pharmacol. 1996 Aug 15;309(3):287-98. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/8874153</general-references>
+  <synthesis-reference>ORGANIC SYNTHESES, 2006, 83, 141. "Synthesis of (+)-(1R,@S,9S)-11-Methyl-7,11-Diazatricyclo[7.3.1.02.7]tridecane, a (+)sparteine surrogate," DOI: 10.15227/orgsyn.083.0141</synthesis-reference>
+  <indication>Indicated for use in smoking cessation. </indication>
+  <pharmacodynamics>Various models have been run where the affinity of nAChR agonists to the receptor subtype are tested to help identify the molecules, groups and steric conformation that are vital to greater affinity. By using a nAChR muscle receptor subtype (α1)2β1δγ model the following results were obtained:&#13;
+anatoxin &gt; epibatidine &gt; acetylcholine &gt; DMPP &gt;&gt; CYTISINE &gt; pyrantel &gt; nicotine &gt; coniine &gt; tubocurare &gt; lobeline,&#13;
+where anatoxin had the highest activity efficacy and tubocurare the lowest. Acetylcholine on the other hand induced a much longer opening time of the receptor though anatoxin is more potent. The results suggest that anatoxin derivatives would be helpful in understanding structure-activity relationships (SAR) for muscle nAChRs (Cooper et al., 1996). </pharmacodynamics>
+  <mechanism-of-action>Cytisine is a low efficacy partial agonist of ⍺4-β2 nicotinic acetylcholine receptors. These which are believed to be central to the effect of nicotine (NIC) on the reward pathway and facilitate addiction. Cytisine reduces the effects of NIC on dopamine release in the mesolimbic system when given alone, while simultaneously attenuating NIC withdrawal symptoms that accompany cessation attempts.</mechanism-of-action>
+  <toxicity>The therapeutic index of cytisine is wide.&#13;
+-Large doses can interfere with breathing and cause death. &#13;
+From MSDS:&#13;
+orl-mus LD50:101 mg/kg ipr-mus LD50:8550 ug/kg ivn-mus LD50:1730 ug/kg scu-rat LD50:8750 ug/kg</toxicity>
+  <metabolism/>
+  <absorption/>
+  <half-life>4.8 hours. </half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>Oral: 6.2 l/kg Oral (5 mg/kg; tested in rabbits). </volume-of-distribution>
+  <clearance>Renal: 43 mL/min. </clearance>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="IUPAC">(1R,5S)-1,2,3,4,5,6-Hexahydro-1,5-methano-8H-pyrido[1,2a][1,5]diazocin-8-one</synonym>
+    <synonym language="" coder="IS">Baptitoxine</synonym>
+    <synonym language="" coder="IS">Sophorine</synonym>
+    <synonym language="" coder="IS">Ulexin</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand company="Sopharma AD">Tabex</international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms/>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>1.06</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-1.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>8.14e+00 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-0.28</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1R,9S)-7,11-diazatricyclo[7.3.1.0²,⁷]trideca-2,4-dien-6-one</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>cytisine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>190.2417</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>190.11061308</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>O=C1C=CC=C2[C@H]3CNC[C@H](C3)CN12</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C11H14N2O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C11H14N2O/c14-11-3-1-2-10-9-4-8(5-12-6-9)7-13(10)11/h1-3,8-9,12H,4-7H2/t8-,9+/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>InChIKey=ANJTVLIZGCUXLD-DTWKUNHWSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>32.34</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>56.93</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>20.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.82</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>true</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>152-153</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Boiling Point</kind>
+      <value>218</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>4055</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C10763</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07770</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Cytisine</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/international/cytisine.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000849</id>
+      <name>Neuronal acetylcholine receptor subunit alpha-4</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references format="textile"># Walker N, Howe C, Glover M, McRobbie H, Barnes J, Nosa V, Parag V, Bassett B, Bullen C: Cytisine versus nicotine for smoking cessation. N Engl J Med. 2014 Dec 18;371(25):2353-62. doi: 10.1056/NEJMoa1407764. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/25517706&#13;
+# Houlihan LM, Slater Y, Guerra DL, Peng JH, Kuo YP, Lukas RJ, Cassels BK, Bermudez I: Activity of cytisine and its brominated isosteres on recombinant human alpha7, alpha4beta2 and alpha4beta4 nicotinic acetylcholine receptors. J Neurochem. 2001 Sep;78(5):1029-43. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/11553677</references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P43681" source="Swiss-Prot">
+    <name>Neuronal acetylcholine receptor subunit alpha-4</name>
+    <general-function>Involved in neurotransmitter receptor activity</general-function>
+    <specific-function>After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane</specific-function>
+    <gene-name>CHRNA4</gene-name>
+    <locus>20q13.2-q13.3</locus>
+    <cellular-location>Membrane; multi-pass membrane protein</cellular-location>
+    <transmembrane-regions>243-267
+275-293
+309-330
+601-619</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>7.21</theoretical-pi>
+    <molecular-weight>69958.0</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:1958</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CHRNA4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GeneCards</resource>
+        <identifier>CHRNA4</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>L35901</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>755648</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>465</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>76</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P43681</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ACHA4_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Neuronal acetylcholine receptor subunit alpha-4 precursor</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;Neuronal acetylcholine receptor subunit alpha-4 precursor
+MELGGPGAPRLLPPLLLLLGTGLLRASSHVETRAHAEERLLKKLFSGYNKWSRPVANISD
+VVLVRFGLSIAQLIDVDEKNQMMTTNVWVKQEWHDYKLRWDPADYENVTSIRIPSELIWR
+PDIVLYNNADGDFAVTHLTKAHLFHDGRVQWTPPAIYKSSCSIDVTFFPFDQQNCTMKFG
+SWTYDKAKIDLVNMHSRVDQLDFWESGEWVIVDAVGTYNTRKYECCAEIYPDITYAFVIR
+RLPLFYTINLIIPCLLISCLTVLVFYLPSECGEKITLCISVLLSLTVFLLLITEIIPSTS
+LVIPLIGEYLLFTMIFVTLSIVITVFVLNVHHRSPRTHTMPTWVRRVFLDIVPRLLLMKR
+PSVVKDNCRRLIESMHKMASAPRFWPEPEGEPPATSGTQSLHPPSPSFCVPLDVPAEPGP
+SCKSPSDQLPPQQPLEAEKASPHPSPGPCRPPHGTQAPGLAKARSLSVQHMSSPGEAVEG
+GVRCRSRSIQYCVPRDDAAPEADGQAAGALASRNTHSAELPPPDQPSPCKCTCKKEPSSV
+SPSATVKTRSTKAPPPHLPLSPALTRAVEGVQYIADHLKAEDTDFSVKEDWKYVAMVIDR
+IFLWMFIIVCLLGTVGLFLPPWLAGMI</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;1884 bp
+ATGGAGCTAGGGGGCCCCGGAGCGCCGCGGCTGCTGCCGCCGCTGCTGCTGCTTCTGGGG
+ACCGGCCTCCTGCGCGCCAGCAGCCATGTGGAGACCCGGGCCCACGCCGAGGAGCGGCTC
+CTGAAGAAACTCTTCTCCGGTTACAACAAGTGGTCCCGACCCGTGGCCAACATCTCGGAC
+GTGGTCCTCGTCCGCTTCGGCCTGTCCATCGCTCAGCTCATTGACGTGGATGAGAAGAAC
+CAGATGATGACCACGAACGTATGGGTGAAGCAGGAGTGGCACGACTACAAGCTGCGCTGG
+GACCCAGCTGACTATGAGAATGTCACCTCCATCCGCATCCCCTCCGAGCTCATCTGGCGG
+CCGGACATCGTCCTCTACAACAATGCTGACGGGGACTTCGCGGTCACCCACCTGACCAAG
+GCCCACCTGTTCCATGACGGGCGGGTGCAGTGGACTCCCCCGGCCATTTACAAGAGCTCC
+TGCAGCATCGACGTCACCTTCTTCCCCTTCGACCAGCAGAACTGCACCATGAAATTCGGC
+TCCTGGACCTACGACAAGGCCAAGATCGACCTGGTGAACATGCACAGCCGCGTGGACCAG
+CTGGACTTCTGGGAGAGTGGCGAGTGGGTCATCGTGGATGCCGTGGGCACCTACAACACC
+AGGAAGTACGAGTGCTGTGCCGAGATCTACCCGGACATCACCTATGCCTTCGTCATCCGG
+CGGCTGCCGCTCTTCTACACCATCAACCTCATCATCCCCTGCCTGCTCATCTCCTGCCTC
+ACCGTGCTGGTCTTCTACCTGCCCTCCGAGTGTGGCGAGAAGATCACGCTGTGCATCTCC
+GTGCTGCTGTCGCTCACCGTCTTCCTGCTGCTCATCACCGAGATCATCCCGTCCACCTCA
+CTGGTCATCCCACTCATCGGCGAGTACCTGCTGTTCACCATGATCTTCGTCACCCTGTCC
+ATCGTCATCACGGTCTTCGTGCTCAACGTGCACCACCGCTCGCCACGCACGCACACCATG
+CCCACCTGGGTACGCAGGGTCTTCCTGGACATCGTGCCACGCCTGCTCCTCATGAAGCGG
+CCGTCCGTGGTCAAGGACAATTGCCGGCGGCTCATCGAGTCCATGCATAAGATGGCCAGT
+GCCCCGCGCTTCTGGCCCGAGCCAGAAGGGGAGCCCCCTGCCACGAGCGGCACCCAGAGC
+CTGCACCCGCCCTCACCGTCCTTCTGTGTCCCCCTGGATGTGCCGGCTGAGCCTGGGCCT
+TCCTGCAAGTCACCCTCCGACCAGCTCCCTCCTCAGCAGCCCCTGGAAGCTGAGAAAGCC
+AGCCCCCACCCCTCGCCTGGACCCTGCCGCCCGCCCCACGGCACCCAGGCACCAGGGCTG
+GCCAAAGCCAGGTCCCTCAGCGTCCAGCACATGTCCAGCCCTGGCGAAGCGGTGGAAGGC
+GGCGTCCGGTGCCGGTCTCGGAGCATCCAGTACTGTGTTCCCCGAGACGATGCCGCCCCC
+GAGGCAGATGGCCAGGCTGCCGGCGCCCTGGCCTCTCGCAACACCCACTCGGCTGAGCTC
+CCACCCCCAGACCAGCCCTCTCCGTGCAAATGCACATGCAAGAAGGAGCCCTCTTCGGTG
+TCCCCGAGTGCCACGGTCAAGACCCGCAGCACCAAAGCACCGCCCCCGCACCTGCCCCTG
+TCGCCGGCCCTGACCCGGGCGGTGGAGGGCGTCCAGTACATTGCAGACCACCTGAAGGCC
+GAAGACACAGACTTCTCGGTGAAGGAGGACTGGAAGTACGTGGCCATGGTCATCGACCGC
+ATCTTCCTCTGGATGTTCATCATCGTCTGCCTGCTGGGGACGGTGGGCCTCTTCCTGCCG
+CCCTGGCTGGCTGGCATGATCTAG</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02931</identifier>
+        <name>Neur_chan_LBD</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02932</identifier>
+        <name>Neur_chan_memb</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>integral to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>postsynaptic membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intrinsic to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>signal transducer activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>neurotransmitter receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>excitatory extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>nicotinic acetylcholine-activated cation-selective channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ion transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0002341</id>
+      <name>Neuronal acetylcholine receptor subunit alpha-7</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references format="textile"># Walker N, Howe C, Glover M, McRobbie H, Barnes J, Nosa V, Parag V, Bassett B, Bullen C: Cytisine versus nicotine for smoking cessation. N Engl J Med. 2014 Dec 18;371(25):2353-62. doi: 10.1056/NEJMoa1407764. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/25517706&#13;
+# Houlihan LM, Slater Y, Guerra DL, Peng JH, Kuo YP, Lukas RJ, Cassels BK, Bermudez I: Activity of cytisine and its brominated isosteres on recombinant human alpha7, alpha4beta2 and alpha4beta4 nicotinic acetylcholine receptors. J Neurochem. 2001 Sep;78(5):1029-43. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/11553677</references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P36544" source="Swiss-Prot">
+    <name>Neuronal acetylcholine receptor subunit alpha-7</name>
+    <general-function/>
+    <specific-function>After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane</specific-function>
+    <gene-name>CHRNA7</gene-name>
+    <locus>15q14</locus>
+    <cellular-location>Membrane</cellular-location>
+    <transmembrane-regions>231-255
+262-280
+296-317
+470-490</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>6.44</theoretical-pi>
+    <molecular-weight>56450.0</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>HGNC:1960</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenAtlas</resource>
+        <identifier>CHRNA7</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GeneCards</resource>
+        <identifier>CHRNA7</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>X70297</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>496607</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>IUPHAR</resource>
+        <identifier>468</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>Guide to Pharmacology</resource>
+        <identifier>76</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P36544</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ACHA7_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+      <synonym>Neuronal acetylcholine receptor subunit alpha-7 precursor</synonym>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;Neuronal acetylcholine receptor subunit alpha-7
+MRCSPGGVWLALAASLLHVSLQGEFQRKLYKELVKNYNPLERPVANDSQPLTVYFSLSLL
+QIMDVDEKNQVLTTNIWLQMSWTDHYLQWNVSEYPGVKTVRFPDGQIWKPDILLYNSADE
+RFDATFHTNVLVNSSGHCQYLPPGIFKSSCYIDVRWFPFDVQHCKLKFGSWSYGGWSLDL
+QMQEADISGYIPNGEWDLVGIPGKRSERFYECCKEPYPDVTFTVTMRRRTLYYGLNLLIP
+CVLISALALLVFLLPADSGEKISLGITVLLSLTVFMLLVAEIMPATSDSVPLIAQYFAST
+MIIVGLSVVVTVIVLQYHHHDPDGGKMPKWTRVILLNWCAWFLRMKRPGEDKVRPACQHK
+QRRCSLASVEMSAVAPPPASNGNLLYIGFRGLDGVHCVPTPDSGVVCGRMACSPTHDEHL
+LHGGQPPEGDPDLAKILEEVRYIANRFRCQDESEAVCSEWKFAACVVDRLCLMAFSVFTI
+ICTIGILMSAPNFVEAVSKDFA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;1509 bp
+ATGCGCTGCTCGCCGGGAGGCGTCTGGCTGGGCCTGGCCGCGTCGCTCCTGCACGTGTCC
+CTGCAAGGCGAGTTCCAGAGGAAGCTTTACAAGGAGCTGGTCAAGAACTACAATCCCTTG
+GAGAGGCCCGTGGCCAATGACTCGCAACCACTCACCGTCTACTTCTCCCTGAGCCTCCTG
+CAGATCATGGACGTGGATGAGAAGAACCAAGTTTTAACCACCAACATTTGGCTGCAAATG
+TCTTGGACAGATCACTATTTACAGTGGAATGTGTCAGAATATCCAGGGGTGAAGACTGTT
+CGTTTCCCAGATGGCCAGATTTGGAAACCAGACATTCTTCTCTATAACAGTGCTGATGAG
+CGCTTTGACGCCACATTCCACACTAACGTGTTGGTGAATTCTTCTGGGCATTGCCAGTAC
+CTGCCTCCAGGCATATTCAAGAGTTCCTGCTACATCGATGTACGCTGGTTTCCCTTTGAT
+GTGCAGCACTGCAAACTGAAGTTTGGGTCCTGGTCTTACGGAGGCTGGTCCTTGGATCTG
+CAGATGCAGGAGGCAGATATCAGTGGCTATATCCCCAATGGAGAATGGGACCTAGTGGGA
+ATCCCCGGCAAGAGGAGTGAAAGGTTCTATGAGTGCTGCAAAGAGCCCTACCCCGATGTC
+ACCTTCACAGTGACCATGCGCCGCAGGACACTCTACTATGGCCTCAACCTGCTGATCCCC
+TGTGTGCTCATCTCCGCCCTCGCCCTGCTGGTGTTCCTGCTTCCTGCAGATTCCGGGGAG
+AAGATTTCCCTGGGGATAACAGTCTTACTCTCTCTTACCGTCTTCATGCTGCTCGTGGCT
+GAGATCATGCCCGCAACATCCGATTCGGTACCATTGATAGCCCAGTACTTCGCCAGCACC
+ATGATCATCGTGGGCCTCTCGGTGGTGGTGACAGTGATCGTGCTGCAGTACCACCACCAC
+GACCCCGACGGGGGCAAGATGCCCAAGTGGACCAGAGTCATCCTTCTGAACTGGTGCGCG
+TGGTTCCTGCGAATGAAGAGGCCCGGGGAGGACAAGGTGCGCCCGGCCTGCCAGCACAAG
+CAGCGGCGCTGCAGCCTGGCCAGTGTGGAGATGAGCGCCGTGGGCCCGCCGCCCGCCAGC
+AACGGGAACCTGCTGTACATCGGCTTCCGCGGCCTGGACGGCGTGCACTGTGTCCCGACC
+CCCGACTCTGGGGTAGTGTGTGGCCGCATGGCCTGCTCCCCCACGCACGATGAGCACCTC
+CTGCACGGCGGGCAACCCCCCGAGGGGGACCCGGACTTGGCCAAGATCCTGGAGGAGGTC
+CGCTACATTGCCAACCGCTTCCGCTGCCAGGACGAAAGCGAGGCGGTCTGCAGCGAGTGG
+AAGTTCGCCGCCTGTGTGGTGGACCGCCTGTGCCTCATGGCCTTCTCGGTCTTCACCATC
+ATCTGCACCATCGGCATCCTGATGTCGGCTCCCAACTTCGTGGAGGCCGTGTCCAAAGAC
+TTTGCGTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02931</identifier>
+        <name>Neur_chan_LBD</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02932</identifier>
+        <name>Neur_chan_memb</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>cell</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>postsynaptic membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>intrinsic to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>neurotransmitter receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>excitatory extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>nicotinic acetylcholine-activated cation-selective channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>signal transducer activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0003585</id>
+      <name>Neuronal acetylcholine receptor subunit alpha-3</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references format="textile"># Walker N, Howe C, Glover M, McRobbie H, Barnes J, Nosa V, Parag V, Bassett B, Bullen C: Cytisine versus nicotine for smoking cessation. N Engl J Med. 2014 Dec 18;371(25):2353-62. doi: 10.1056/NEJMoa1407764. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/25517706&#13;
+# Houlihan LM, Slater Y, Guerra DL, Peng JH, Kuo YP, Lukas RJ, Cassels BK, Bermudez I: Activity of cytisine and its brominated isosteres on recombinant human alpha7, alpha4beta2 and alpha4beta4 nicotinic acetylcholine receptors. J Neurochem. 2001 Sep;78(5):1029-43. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/11553677</references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P32297" source="Swiss-Prot">
+    <name>Neuronal acetylcholine receptor subunit alpha-3</name>
+    <general-function>Involved in acetylcholine receptor activity</general-function>
+    <specific-function>After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane</specific-function>
+    <gene-name>CHRNA3</gene-name>
+    <locus>15q24</locus>
+    <cellular-location>Cell junction, synapse, postsynaptic cell membrane</cellular-location>
+    <transmembrane-regions>241-265
+273-291
+307-328
+478-497</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>6.4</theoretical-pi>
+    <molecular-weight>57479.5</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>GNC:1957</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GeneCards</resource>
+        <identifier>CHRNA3</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>M86383</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>177898</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>P32297</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ACHA3_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;Neuronal acetylcholine receptor subunit alpha-3
+MGSGPLSLPLALSPPRLLLLLLLSLLPVARASEAEHRLFERLFEDYNEIIRPVANVSDPV
+IIHFEVSMSQLVKVDEVNQIMETNLWLKQIWNDYKLKWNPSDYGGAEFMRVPAQKIWKPD
+IVLYNNAVGDFQVDDKTKALLKYTGEVTWIPPAIFKSSCKIDVTYFPFDYQNCTMKFGSW
+SYDKAKIDLVLIGSSMNLKDYWESGEWAIIKAPGYKHDIKYNCCEEIYPDITYSLYIRRL
+PLFYTINLIIPCLLISFLTVLVFYLPSDCGEKVTLCISVLLSLTVFLLVITETIPSTSLV
+IPLIGEYLLFTMIFVTLSIVITVFVLNVHYRTPTTHTMPSWVKTVFLNLLPRVMFMTRPT
+SNEGNAQKPRPLYGAELSNLNCFSRAESKGCKEGYPCQDGMCGYCHHRRIKISNFSANLT
+RSSSSESVDAVLSLSALSPEIKEAIQSVKYIAENMKAQNEAKEIQDDWKYVAMVIDRIFL
+WVFTLVCILGTAGLFLQPLMAREDA</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;1509 bp
+ATGGCTCTGGCCGTCTCGCTGCCCCTGGCCTGTCGCGCGCGGCTGCTGCTGCTGCTGCTG
+TCTCTGCTGCCAGTGGCCAGGGCCTCAGAGGCTGAGCACCGTCTATTTGAGCGGCTGTTT
+GAAGATTACAATGAGATCATCCGGCCTGTAGCCAACGTGTCTGACCCAGTCATCATCCAT
+TTCGAGGTGTCCATGTCTCAGCTGGTGAAGGTGGATGAAGTAAACCAGATCATGGAGACC
+AACCTGTGGCTCAAGCAAATCTGGAATGACTACAAGCTGAAGTGGAACCCCTCTGGCTAT
+GGTGGGGCAGAGTTCATGCGTGTCCCTGCACAGAAGATCTGGAAGCCAGACATTGTGCTG
+TATAACAATGCTGTTGGGGATTTCCAGGTGACGACCAAGACCAAAGCCTTACTCAAGTAC
+ACTGGGGAGGTGACTTGGATACCTCCGGCCATCTTTAAGAGCTCCTGTAAAATCGACGTG
+ACCTACTTCCCGTTTGATTACCAAAACTGTACCATGAAGTTCGGTTCCTGGTCCTACGAT
+AAGGCGAAAATCGATCTGGTCCTGATCGGCTCTTCCATGAACCTCAAGGACTATTGGGAG
+AGCGGCGAGTGGGCCATCATCAAAGCCCCAGGCTACAAACACGACATCAAGTACAACTGC
+TGCGAGGAGATCTACCCCGACATCACATACTCGCTGTACAGTCGGCGCCTGCCCTTGTTC
+TACACCATCAACCTCATCATCCCCTGCCTGCTCATCTCCTTCCTCACTGTGCTCGTCTTC
+TACCTGCCCTCCGACTGCGGTGAGAAGGTGACCCTGTGCATTTCTGTCCTCCTCTCCCTG
+ACGGTGTTTCTCCTGGTGATCACTGAGACCATCCCTTCCACCTCGCTGGTCATCCCCCTG
+ATTGGAGAGTACCTCCTGTTCACCATGATTTTTGTAACCTTGTCCATCGTCATCACCGTC
+TTCGTGCTCAACGTGCACTACAGAACCCCGACGACACACACAATGCCCTCATGGGTGAAG
+ACTGTATTCTTGAACCTGCTCCCCAGGGTCATGTTCATGACCAGGCCAACAAGCAACGAG
+GGCAACGCTCAGAAGCCGAGGCCCCTCTACGGTGCCGAGCTCTCAAATCTGAATTGCTTC
+AGCCGCGCAGAGTCCAAAGGCTGCAAGGAGGGCTACCCCTGCCAGGACGGGATGTGTGGT
+TACTGCCACCACCGCAGGATAAAAATCTCCAATTTCAGTGCTAACCTCACGAGAAGCTCT
+AGTTCTGAATCTGTTGATGCTGTGGTGTCCCTCTCTGCTTTGTCACCAGAAATCAAAGAA
+GCCATCCAAAGTGTCAAGTATATTGCTGAAAATATGAAAGCACAAAATGAAGCCAAAGAG
+ATTCAAGATGATTGGAAGTATGTTGCCATGGTGATTGATCGTATTTTTCTGTGGGTTTTC
+ACCCTGGTGTGCATTCTAGGGACAGCAGGATTGTTTCTGCAACCCCTGATGGCCAGGGAA
+GATGCATAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02931</identifier>
+        <name>Neur_chan_LBD</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02932</identifier>
+        <name>Neur_chan_memb</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>intrinsic to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>postsynaptic membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>nicotinic acetylcholine-activated cation-selective channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>signal transducer activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>neurotransmitter receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>excitatory extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ion transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+    <target position="4">
+      <id>BE0003587</id>
+      <name>Neuronal acetylcholine receptor subunit alpha-6</name>
+      <organism>Human</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references format="textile"># Walker N, Howe C, Glover M, McRobbie H, Barnes J, Nosa V, Parag V, Bassett B, Bullen C: Cytisine versus nicotine for smoking cessation. N Engl J Med. 2014 Dec 18;371(25):2353-62. doi: 10.1056/NEJMoa1407764. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/25517706&#13;
+# Houlihan LM, Slater Y, Guerra DL, Peng JH, Kuo YP, Lukas RJ, Cassels BK, Bermudez I: Activity of cytisine and its brominated isosteres on recombinant human alpha7, alpha4beta2 and alpha4beta4 nicotinic acetylcholine receptors. J Neurochem. 2001 Sep;78(5):1029-43. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/11553677</references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q15825" source="Swiss-Prot">
+    <name>Neuronal acetylcholine receptor subunit alpha-6</name>
+    <general-function>Involved in acetylcholine receptor activity</general-function>
+    <specific-function>After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane</specific-function>
+    <gene-name>CHRNA6</gene-name>
+    <locus>8p11.21</locus>
+    <cellular-location>Cell junction, synapse, postsynaptic cell membrane</cellular-location>
+    <transmembrane-regions>240-264
+272-290
+306-327
+466-484</transmembrane-regions>
+    <signal-regions/>
+    <theoretical-pi>6.6</theoretical-pi>
+    <molecular-weight>56897.7</molecular-weight>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id="9606">Human</organism>
+    <external-identifiers>
+      <external-identifier>
+        <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+        <identifier>GNC:15963</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GeneCards</resource>
+        <identifier>CHRNA6</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Gene Database</resource>
+        <identifier>U62435</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>GenBank Protein Database</resource>
+        <identifier>1458118</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q15825</identifier>
+      </external-identifier>
+      <external-identifier>
+        <resource>UniProt Accession</resource>
+        <identifier>ACHA6_HUMAN</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+    </synonyms>
+    <amino-acid-sequence format="FASTA">&gt;Neuronal acetylcholine receptor subunit alpha-6
+MLTSKGQGFLHGGLCLWLCVFTPFFKGCVGCATEERLFHKLFSHYNQFIRPVENVSDPVT
+VHFEVAITQLANVDEVNQIMETNLWLRHIWNDYKLRWDPMEYDGIETLRVPADKIWKPDI
+VLYNNAVGDFQVEGKTKALLKYNGMITWTPPAIFKSSCPMDITFFPFDHQNCSLKFGSWT
+YDKAEIDLLIIGSKVDMNDFWENSEWEIIDASGYKHDIKYNCCEEIYTDITYSFYIRRLP
+MFYTINLIIPCLFISFLTVLVFYLPSDCGEKVTLCISVLLSLTVFLLVITETIPSTSLVV
+PLVGEYLLFTMIFVTLSIVVTVFVLNIHYRTPTTHTMPRWVKTVFLKLLPQVLLMRWPLD
+KTRGTGSDAVPRGLARRPAKGKLASHGEPRHLKECFHCHKSNELATSKRRLSHQPLQWVV
+ENSEHSPEVEDVINSVQFIAENMKSHNETKEVEDDWKYVAMVVDRVFLWVFIIVCVFGTA
+GLFLQPLLGNTGKS</amino-acid-sequence>
+    <gene-sequence format="FASTA">&gt;1485 bp
+ATGCTGACCAGCAAGGGGCAGGGATTCCTTCATGGGGGCTTGTGTCTCTGGCTGTGTGTG
+TTCACACCTTTCTTTAAAGGCTGTGTGGGCTGTGCAACTGAGGAGAGGCTCTTCCACAAA
+CTGTTTTCTCATTACAACCAGTTCATCAGGCCTGTGGAAAACGTTTCCGACCCTGTCACG
+GTACACTTTGAAGTGGCCATCACCCAGCTGGCCAACGTGGATGAAGTAAACCAGATCATG
+GAAACCAATTTGTGGCTGCGTCACATCTGGAATGATTATAAATTGCGCTGGGATCCAATG
+GAATATGATGGCATTGAGACTCTTCGCGTTCCTGCAGATAAGATTTGGAAGCCCGACATT
+GTTCTCTATAACAATGCTGTTGGTGACTTCCAAGTAGAAGGCAAAACAAAAGCTCTTCTT
+AAATACAATGGCATGATAACCTGGACTCCACCAGCTATTTTTAAGAGTTCCTGCCCTATG
+GATATCACCTTTTTCCCTTTTGATCATCAAAACTGTTCCCTAAAATTTGGTTCCTGGACG
+TATGACAAAGCTGAAATTGATCTTCTAATCATTGGATCAAAAGTGGATATGAATGATTTT
+TGGGAAAACAGTGAATGGGAAATCATTGATGCCTCTGGCTACAAACATGACATCAAATAC
+AACTGTTGTGAAGAGATATACACAGATATAACCTATTCTTTCTACATTAGAAGATTGCCG
+ATGTTTTACACGATTAATCTGATCATCCCTTGTCTCTTTATTTCATTTCTAACCGTGTTG
+GTCTTTTACCTTCCTTCGGACTGTGGTGAAAAAGTGACGCTTTGTATTTCAGTCCTGCTT
+TCTCTGACTGTGTTTTTGCTGGTCATCACAGAAACCATCCCATCCACATCTCTGGTGGTC
+CCACTGGTGGGTGAGTACCTGCTGTTCACCATGATCTTTGTCACACTGTCCATCGTGGTG
+ACTGTGTTTGTGTTGAACATACACTACCGCACCCCAACCACGCACACAATGCCCAGGTGG
+GTGAAGACAGTTTTCCTGAAGCTGCTGCCCCAGGTCCTGCTGATGAGGTGGCCTCTGGAC
+AAGACAAGGGGCACAGGCTCTGATGCAGTGCCCAGAGGCCTTGCCAGGAGGCCTGCCAAA
+GGCAAGCTTGCAAGCCATGGGGAACCCAGACATCTTAAAGAATGCTTCCATTGTCACAAA
+TCAAATGAGCTTGCCACAAGCAAGAGAAGATTAAGTCATCAGCCATTACAGTGGGTGGTG
+GAAAATTCGGAGCACTCGCCTGAAGTTGAAGATGTGATTAACAGTGTTCAGTTCATAGCA
+GAAAACATGAAGAGCCACAATGAAACCAAGGAGGTAGAAGATGACTGGAAATACGTGGCC
+ATGGTGGTGGACAGAGTATTTCTTTGGGTATTTATAATTGTCTGTGTATTTGGAACTGCA
+GGGCTATTTCTACAGCCACTACTTGGGAACACAGGAAAATCTTAA</gene-sequence>
+    <pfams>
+      <pfam>
+        <identifier>PF02931</identifier>
+        <name>Neur_chan_LBD</name>
+      </pfam>
+      <pfam>
+        <identifier>PF02932</identifier>
+        <name>Neur_chan_memb</name>
+      </pfam>
+    </pfams>
+    <go-classifiers>
+      <go-classifier>
+        <category>component</category>
+        <description>intrinsic to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>integral to membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>cell</description>
+      </go-classifier>
+      <go-classifier>
+        <category>component</category>
+        <description>postsynaptic membrane</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>signal transducer activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>neurotransmitter receptor activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion transporter activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>excitatory extracellular ligand-gated ion channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>function</category>
+        <description>nicotinic acetylcholine-activated cation-selective channel activity</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>cellular physiological process</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>transport</description>
+      </go-classifier>
+      <go-classifier>
+        <category>process</category>
+        <description>ion transport</description>
+      </go-classifier>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+<drug type="biotech" created="2015-01-19" updated="2015-01-22">
+  <drugbank-id primary="true">DB09029</drugbank-id>
+  <name>Secukinumab</name>
+  <description>A human monoclonal antibody, secukinumab (Cosentyx) was designed for the treatment of uveitis, rheumatoid arthritis, ankylosing spondylitis, and psoriasis. Secukinumab is an interleukin-17A inhibitor marketed by Novartis. On January 19, 2015, secukinumab was approved by the European Commission as a first line systemic treatment in moderate to severe adult plaque psoriasis. On January 21, 2015, the United States Food and Drug Administration announced that it had approved secukinumab to treat adults with moderate-to-severe plaque psoriasis. </description>
+  <cas-number>875356-43-7</cas-number>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references format="textile"># McInnes IB, Sieper J, Braun J, Emery P, van der Heijde D, Isaacs JD, Dahmen G, Wollenhaupt J, Schulze-Koops H, Kogan J, Ma S, Schumacher MM, Bertolino AP, Hueber W, Tak PP: Efficacy and safety of secukinumab, a fully human anti-interleukin-17A monoclonal antibody, in patients with moderate-to-severe psoriatic arthritis: a 24-week, randomised, double-blind, placebo-controlled, phase II proof-of-concept trial. Ann Rheum Dis. 2014 Feb;73(2):349-56. doi: 10.1136/annrheumdis-2012-202646. Epub 2013 Jan 29. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/23361084</general-references>
+  <synthesis-reference/>
+  <indication/>
+  <pharmacodynamics/>
+  <mechanism-of-action/>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="" coder="">AIN457</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Cosentyx</name>
+      <ndc-id>0078-0639_88d19518-3026-41b5-9d23-8b8873e463ab</ndc-id>
+      <ndc-product-code>0078-0639</ndc-product-code>
+      <started-marketing-on>2015-01-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>injection</dosage-form>
+      <strength>150 mg/mL</strength>
+      <route>subcutaneous</route>
+      <fda-application-number>BLA125504</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>subcutaneous</route>
+      <strength>150 mg/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <patents>
+    <patent>
+      <number>20130202610</number>
+      <country>United States</country>
+      <approved>2010-10-08</approved>
+      <expires>2020-10-08</expires>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt; Secukinumab Heavy Chain (CAS 875356-43-7)
+EVQLVESGGGLVQPGGSLRLSCAASGFTFSNYWMNWVRQAPGKGLEWVAAINQDGSEKYY
+VGSVKGRFTISRDNAKNSLYLQMNSLRVEDTAVYYCVRDYYDILTDYYIHYWYFDLWGRG
+TLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTF
+PAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKRVEPKSCDKTHTCPPCP
+APELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTK
+PREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYT
+LPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKL
+TVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK</sequence>
+    <sequence format="FASTA">&gt; Secukinumab Light Chain (CAS 875356-44-8)
+EIVLTQSPGTLSLSPGERATLSCRASQSVSSSYLAWYQQKPGQAPRLLIYGASSRATGIP
+DRFSGSGSGTDFTLTISRLEPEDFAVYYCQQYGSSPCTFGQGTRLEIKRTVAAPSVFIFP
+PSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTL
+TLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>147.94 kDa</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C6584H10134N1754O2042S44 </value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D09967</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Secukinumab</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0005863</id>
+      <name>Interleukin-17A</name>
+      <organism>Human</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references format="textile"># Ohtsuki M, Morita A, Abe M, Takahashi H, Seko N, Karpov A, Shima T, Papavassilis C, Nakagawa H: Secukinumab efficacy and safety in Japanese patients with moderate-to-severe plaque psoriasis: subanalysis from ERASURE, a randomized, placebo-controlled, phase 3 study. J Dermatol. 2014 Dec;41(12):1039-46. doi: 10.1111/1346-8138.12668. Epub 2014 Oct 30. "Pubmed":http://www.ncbi.nlm.nih.gov/pubmed/25354738</references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q16552" source="">
+    <name>Interleukin-17A</name>
+    <general-function/>
+    <specific-function/>
+    <gene-name/>
+    <locus/>
+    <cellular-location/>
+    <transmembrane-regions/>
+    <signal-regions/>
+    <theoretical-pi/>
+    <molecular-weight/>
+    <chromosome-location/>
+    <organism ncbi-taxonomy-id=""/>
+    <external-identifiers>
+      <external-identifier>
+        <resource>UniProtKB</resource>
+        <identifier>Q16552</identifier>
+      </external-identifier>
+    </external-identifiers>
+    <synonyms>
+    </synonyms>
+    <amino-acid-sequence format="FASTA"/>
+    <gene-sequence format="FASTA"/>
+    <pfams>
+    </pfams>
+    <go-classifiers>
+    </go-classifiers>
+  </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
+
+</drugbank>

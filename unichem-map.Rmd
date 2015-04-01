@@ -22,11 +22,14 @@ library(DT)
 library(reshape2)
 ```
 
+## Read all DrugBank approved small molecules with annotated structures.
+
 ```{r}
 drugbank.df <- file.path('data', 'drugbank.tsv') %>%
-  read.delim(stringsAsFactors=FALSE) %>%
+  read.delim(stringsAsFactors=FALSE, na.strings='') %>%
   dplyr::filter(type == 'small molecule') %>%
-  dplyr::filter(grepl('approved', groups))
+  dplyr::filter(grepl('approved', groups)) %>%
+  dplyr::filter(! is.na(inchikey))
 
 count.df <- file.path('data', 'mapping-counts.tsv') %>%
   read.delim(stringsAsFactors=FALSE, check.names=FALSE)
@@ -63,13 +66,14 @@ count.df %>%
 
 ## The distribution of compounds mapped per approved small molecule in DrugBank
 
-```{r, message=FALSE}
+```{r, message=FALSE, fig.height=3, fig.width=9}
 count.df %>%
   dplyr::select(one_of(sources)) %>%
   reshape2::melt(variable.name = 'source', value.name = 'count') %>%
   ggplot(aes(count)) + theme_bw() +
     geom_histogram(binwidth = 1, origin = -0.5, alpha = 0.6, col='black') +
-    facet_wrap(~ source, scales='free_x')
+    facet_wrap(~ source, scales='free_x', nrow=1) +
+    xlab('Matches per DrugBank compound') + ylab('Count')
 ```
 
 ## Read the mapping file
@@ -79,7 +83,7 @@ mapping.df <- file.path('data', 'mapping.tsv.gz') %>%
   read.delim(stringsAsFactors=FALSE)
 ```
 
-## Each approved small molecule in DrugBank and the DrugBank IDs it matched to
+## Small molecules in DrugBank that matched multiple DrugBank IDs
 
 ```{r}
 mapping.df %>%
