@@ -1,36 +1,3 @@
-      <value>211-213</value>
-      <source>U.S. Patent 4,094,984.</source>
-    </property>
-  </experimental-properties>
-  <external-identifiers>
-    <external-identifier>
-      <resource>ChEBI</resource>
-      <identifier>31308</identifier>
-    </external-identifier>
-    <external-identifier>
-      <resource>KEGG Drug</resource>
-      <identifier>D01744</identifier>
-    </external-identifier>
-    <external-identifier>
-      <resource>Wikipedia</resource>
-      <identifier>Brotizolam</identifier>
-    </external-identifier>
-  </external-identifiers>
-  <external-links>
-    <external-link>
-      <resource>Drugs.com</resource>
-      <url>http://www.drugs.com/international/brotizolam.html</url>
-    </external-link>
-  </external-links>
-  <pathways/>
-  <reactions/>
-  <snp-effects/>
-  <snp-adverse-drug-reactions/>
-  <targets/>
-  <enzymes/>
-  <carriers/>
-  <transporters/>
-</drug>
 <drug type="small molecule" created="2014-06-23" updated="2015-01-22">
   <drugbank-id primary="true">DB09018</drugbank-id>
   <name>Bromopride</name>
