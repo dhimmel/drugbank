@@ -1,5 +1,7 @@
 ## User-friendly extensions of the DrugBank database
 
+[![DOI 10.5281/zenodo.45579](https://zenodo.org/badge/doi/10.5281/zenodo.45579.svg)](https://doi.org/10.5281/zenodo.45579)
+
 [DrugBank](http://www.drugbank.ca/) is a publicly-available resource of drug information [[1](https://doi.org/10.1093/nar/gkt1068)]. We rely on DrugBank for our [project to repurpose drugs](https://doi.org/10.15363/thinklab.4 "Thinklab: Repurposing drugs on a hetnet"). We are conducting this project openly on ThinkLab, and this README will reference Thinklab discussions providing greater detail.
 
 This repository contains several code and data components:
