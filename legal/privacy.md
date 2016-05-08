@@ -16,7 +16,7 @@ By submitting and accessing information through the DrugBank or web based applic
 
 **_You are prohibited from using the Platform unless you fully understand and agree to the Terms of Use and the Policy._**
 
-If you have any questions about the Terms of Use or the Policy, please send an email with your questions to [[email protected]][1] before accessing or entering any information on the Platform.
+If you have any questions about the Terms of Use or the Policy, please send an email with your questions to info@drugbank.ca before accessing or entering any information on the Platform.
 
 1. Identifying Information About Users We Collect and Store
 
@@ -47,7 +47,7 @@ If you have any questions about the Terms of Use or the Policy, please send an e
 
 * Deleting Your Information
 
-  If you want us to permanently delete your information from our servers at any time, please send an email to [[email protected]][1] We will ensure your information is deleted in a reasonable time after receiving that request. Deleting such information may require us to terminate your account in its entirety.
+  If you want us to permanently delete your information from our servers at any time, please send an email to info@drugbank.ca. We will ensure your information is deleted in a reasonable time after receiving that request. Deleting such information may require us to terminate your account in its entirety.
 
   So long as your account remains active, we will preserve your information in accordance with the Policy.
 
@@ -89,9 +89,6 @@ If you have any questions about the Terms of Use or the Policy, please send an e
 
 * Contact Us
 
-  We encourage you to send us questions and inquiries on the Policy and the steps we take to keep your information secure. Please send us an email: [info@omx.io][2].
+  We encourage you to send us questions and inquiries on the Policy and the steps we take to keep your information secure. Please send us an email: [info@omx.io](mailto:info@omx.io).
 
   We will respond to all inquiries on the Policy within 30 days.
-
-[1]: /cdn-cgi/l/email-protection
-[2]: mailto:info@omx.io
