@@ -1,0 +1,1024 @@
+type	drugbank_id	name	half_life_hours_curated
+small molecule	DB00477	Chlorpromazine	30.0
+small molecule	DB06708	Lumefantrine	108.0
+small molecule	DB00980	Ramelteon	1.8
+small molecule	DB01035	Procainamide	3.5
+biotech	DB00092	Alefacept	270.0
+biotech	DB00087	Alemtuzumab	288.0
+biotech	DB00007	Leuprolide	3.0
+small molecule	DB08895	Tofacitinib	3.0
+small molecule	DB00716	Nedocromil	3.3
+small molecule	DB01590	Everolimus	30.0
+small molecule	DB00348	Nitisinone	54.0
+biotech	DB00082	Pegvisomant	144.0
+small molecule	DB00050	Cetrorelix	62.8
+small molecule	DB06255	Incadronate	0.33
+small molecule	DB00698	Nitrofurantoin	0.65
+biotech	DB04985	PCK3145	0.9
+small molecule	DB00494	Entacapone	0.55
+small molecule	DB00806	Pentoxifylline	0.6
+small molecule	DB00755	Tretinoin	1.25
+small molecule	DB01113	Papaverine	1.25
+small molecule	DB00621	Oxandrolone	0.55
+small molecule	DB00833	Cefaclor	0.75
+small molecule	DB00986	Glycopyrrolate	0.9
+small molecule	DB04975	Banoxantrone	0.74
+small molecule	DB00301	Flucloxacillin	0.88
+small molecule	DB01085	Pilocarpine	0.76
+small molecule	DB00199	Erythromycin	1.9
+biotech	DB00057	Satumomab Pendetide	0.8
+biotech	DB00073	Rituximab	0.8
+biotech	DB00075	Muromonab	0.8
+biotech	DB00078	Ibritumomab	0.8
+biotech	DB00081	Tositumomab	0.8
+small molecule	DB00649	Stavudine	1.15
+small molecule	DB01058	Praziquantel	1.15
+small molecule	DB01046	Lubiprostone	1.15
+small molecule	DB00637	Astemizole	24.0
+small molecule	DB00213	Pantoprazole	1.0
+small molecule	DB00267	Cefmenoxime	1.0
+small molecule	DB00504	Levallorphan	1.0
+small molecule	DB00567	Cephalexin	1.0
+small molecule	DB00578	Carbenicillin	1.0
+small molecule	DB00743	Gadobenate Dimeglumine	1.0
+small molecule	DB00859	Penicillamine	1.0
+small molecule	DB00874	Guaifenesin	1.0
+small molecule	DB00883	Isosorbide Dinitrate	1.0
+small molecule	DB00907	Cocaine	1.0
+small molecule	DB00912	Repaglinide	1.0
+small molecule	DB01598	Imipenem	1.0
+small molecule	DB00447	Loracarbef	1.0
+small molecule	DB04920	Clevidipine	1.0
+small molecule	DB00392	Ethopropazine	1.5
+small molecule	DB01083	Orlistat	1.5
+small molecule	DB00198	Oseltamivir	2.0
+small molecule	DB00919	Spectinomycin	2.0
+small molecule	DB00316	Acetaminophen	2.5
+small molecule	DB00985	Dimenhydrinate	2.5
+small molecule	DB01237	Bromodiphenhydramine	2.5
+small molecule	DB04944	Acadesine	168.0
+small molecule	DB00736	Esomeprazole	1.25
+small molecule	DB00767	Benzquinamide	1.3
+small molecule	DB00190	Carbidopa	1.5
+small molecule	DB00585	Nizatidine	1.5
+small molecule	DB01199	Tubocurarine	1.5
+small molecule	DB01228	Encainide	1.5
+small molecule	DB01393	Bezafibrate	1.5
+small molecule	DB01580	Oxprenolol	1.5
+small molecule	DB04794	Bifonazole	1.5
+small molecule	DB01171	Moclobemide	1.5
+small molecule	DB01129	Rabeprazole	1.5
+small molecule	DB01096	Oxamniquine	1.75
+small molecule	DB04599	Aniracetam	1.75
+small molecule	DB00899	Remifentanil	0.18
+small molecule	DB00437	Allopurinol	2.0
+small molecule	DB00959	Methylprednisolone	2.0
+small molecule	DB01075	Diphenhydramine	2.5
+biotech	DB00107	Oxytocin	0.06
+small molecule	DB00766	Clavulanate	1.0
+small molecule	DB01179	Podofilox	2.75
+small molecule	DB01105	Sibutramine	1.1
+small molecule	DB01607	Ticarcillin	1.1
+small molecule	DB00779	Nalidixic Acid	1.8
+small molecule	DB04970	Lesopitron	3.35
+small molecule	DB00423	Methocarbamol	1.19
+small molecule	DB01414	Cefacetrile	1.2
+biotech	DB00011	Interferon alfa-n1	1.2
+biotech	DB00045	OspA lipoprotein	1.2
+small molecule	DB00780	Phenelzine	6.4
+small molecule	DB01037	Selegiline	1.6
+small molecule	DB00956	Hydrocodone	2.13
+small molecule	DB01192	Oxymorphone	1.3
+small molecule	DB01003	Cromoglicic acid	1.3
+small molecule	DB01150	Cefprozil	1.3
+small molecule	DB00948	Mezlocillin	2.9
+small molecule	DB00591	Fluocinolone Acetonide	1.5
+small molecule	DB05087	Ganaxolone	1.6
+small molecule	DB01016	Glyburide	1.6
+small molecule	DB05246	Methsuximide	2.0
+small molecule	DB00448	Lansoprazole	1.5
+small molecule	DB01042	Melphalan	1.5
+small molecule	DB01170	Guanethidine	36.0
+small molecule	DB00291	Chlorambucil	1.5
+small molecule	DB00731	Nateglinide	1.5
+small molecule	DB00884	Risedronate	1.5
+small molecule	DB00969	Alosetron	1.5
+small molecule	DB00989	Rivastigmine	1.5
+small molecule	DB01140	Cefadroxil	1.5
+small molecule	DB01241	Gemfibrozil	1.5
+small molecule	DB01337	Pancuronium	2.1
+small molecule	DB04572	Thiotepa	2.8
+small molecule	DB01600	Tiaprofenic acid	2.0
+small molecule	DB00752	Tranylcypromine	2.35
+biotech	DB00090	Laronidase	2.55
+small molecule	DB00897	Triazolam	3.5
+small molecule	DB00274	Cefmetazole	1.5
+small molecule	DB01048	Abacavir	1.54
+small molecule	DB01001	Salbutamol	1.6
+small molecule	DB04570	Latamoxef	1.6
+small molecule	DB06590	Ceftaroline fosamil	1.6
+small molecule	DB00535	Cefdinir	1.7
+small molecule	DB01188	Ciclopirox	1.7
+small molecule	DB00581	Lactulose	1.95
+small molecule	DB00867	Ritodrine	2.05
+small molecule	DB00393	Nimodipine	5.35
+small molecule	DB00224	Indinavir	1.8
+small molecule	DB00180	Flunisolide	1.8
+small molecule	DB04743	Nimesulide	3.25
+small molecule	DB06703	Gadobutrol	1.81
+small molecule	DB01011	Metyrapone	1.9
+small molecule	DB00162	Vitamin A	1.9
+small molecule	DB00824	Enprofylline	1.9
+small molecule	DB01036	Tolterodine	2.8
+small molecule	DB04853	Binodenoson	0.17
+small molecule	DB00845	Clofazimine	240.0
+small molecule	DB00182	Amphetamine	10.0
+small molecule	DB00204	Dofetilide	10.0
+small molecule	DB00226	Guanadrel	10.0
+small molecule	DB00346	Alfuzosin	10.0
+small molecule	DB00366	Doxylamine	10.0
+small molecule	DB00426	Famciclovir	10.0
+small molecule	DB00549	Zafirlukast	10.0
+small molecule	DB00879	Emtricitabine	10.0
+small molecule	DB00983	Formoterol	10.0
+small molecule	DB01015	Sulfamethoxazole	10.0
+small molecule	DB04861	Nebivolol	10.0
+small molecule	DB06268	Sitaxentan	10.0
+biotech	DB00060	Interferon beta-1a	10.0
+small molecule	DB00421	Spironolactone	0.17
+small molecule	DB00614	Furazolidone	0.17
+small molecule	DB00987	Cytarabine	0.17
+small molecule	DB01168	Procarbazine	0.17
+small molecule	DB06274	Alvimopan	13.5
+small molecule	DB00748	Carbinoxamine	15.0
+small molecule	DB00321	Amitriptyline	30.0
+small molecule	DB00624	Testosterone	0.92
+small molecule	DB00542	Benazepril	10.5
+small molecule	DB00379	Mexiletine	11.0
+small molecule	DB01437	Glutethimide	11.0
+small molecule	DB00579	Mazindol	12.0
+small molecule	DB05065	PHX1149	12.0
+small molecule	DB00618	Demeclocycline	13.5
+small molecule	DB06148	Mianserin	13.5
+biotech	DB00051	Adalimumab	360.0
+small molecule	DB00231	Temazepam	15.0
+small molecule	DB00831	Trifluoperazine	15.0
+small molecule	DB01558	Bromazepam	15.0
+small molecule	DB01623	Thiothixene	15.0
+biotech	DB00067	Vasopressin	0.25
+small molecule	DB00544	Fluorouracil	0.25
+small molecule	DB01576	Dextroamphetamine	12.0
+small molecule	DB00707	Porfimer	231.0
+small molecule	DB00710	Ibandronate	35.0
+small molecule	DB01120	Gliclazide	10.4
+small molecule	DB00742	Mannitol	1.67
+biotech	DB00005	Etanercept	102.0
+small molecule	DB00281	Lidocaine	1.82
+small molecule	DB01079	Tegaserod	11.0
+biotech	DB00108	Natalizumab	264.0
+small molecule	DB04948	Lofexidine	11.0
+small molecule	DB01157	Trimetrexate	15.5
+biotech	DB00010	Sermorelin	0.19
+biotech	DB06720	Velaglucerase alfa	0.19
+small molecule	DB01166	Cilostazol	12.0
+small molecule	DB01029	Irbesartan	13.0
+small molecule	DB00854	Levorphanol	13.5
+small molecule	DB00726	Trimipramine	14.5
+small molecule	DB01017	Minocycline	16.5
+small molecule	DB01459	Bezitramide	17.5
+biotech	DB00111	Daclizumab	588.0
+small molecule	DB00218	Moxifloxacin	13.55
+biotech	DB00002	Cetuximab	114.0
+small molecule	DB00290	Bleomycin	1.92
+small molecule	DB00492	Fosinopril	12.0
+small molecule	DB00751	Epinastine	12.0
+small molecule	DB00778	Roxithromycin	12.0
+small molecule	DB01162	Terazosin	12.0
+small molecule	DB01708	Dehydroepiandrosterone	12.0
+small molecule	DB08918	Levomilnacipran	12.0
+small molecule	DB00476	Duloxetine	12.0
+small molecule	DB08820	Ivacaftor	12.0
+biotech	DB00013	Urokinase	0.2
+small molecule	DB00617	Paramethadione	18.0
+small molecule	DB04849	AZD2171	23.5
+small molecule	DB01081	Diphenoxylate	13.0
+small molecule	DB06695	Dabigatran etexilate	13.0
+small molecule	DB06813	Pralatrexate	15.0
+small molecule	DB00957	Norgestimate	21.0
+small molecule	DB01261	Sitagliptin	12.4
+small molecule	DB01062	Oxybutynin	12.8
+small molecule	DB00357	Aminoglutethimide	12.5
+small molecule	DB00234	Reboxetine	12.5
+small molecule	DB06218	Lacosamide	13.0
+biotech	DB00041	Aldesleukin	0.82
+biotech	DB04901	Galiximab	444.0
+small molecule	DB01173	Orphenadrine	16.5
+small molecule	DB08836	Temocapril	13.1
+biotech	DB00106	Abarelix	316.8
+small molecule	DB06292	Dapagliflozin	13.8
+small molecule	DB01541	Boldenone	336.0
+small molecule	DB00703	Methazolamide	14.0
+small molecule	DB00931	Methacycline	14.0
+small molecule	DB00808	Indapamide	14.0
+small molecule	DB01076	Atorvastatin	14.0
+small molecule	DB01141	Micafungin	15.5
+small molecule	DB04835	Maraviroc	16.0
+small molecule	DB00195	Betaxolol	18.0
+small molecule	DB01203	Nadolol	19.0
+small molecule	DB05764	ABT-263	19.5
+small molecule	DB00950	Fexofenadine	14.4
+small molecule	DB04834	Rapacuronium	2.35
+small molecule	DB00399	Zoledronate	146.0
+small molecule	DB00365	Grepafloxacin	15.0
+small molecule	DB04868	Nilotinib	15.0
+small molecule	DB00888	Mechlorethamine	0.25
+small molecule	DB00165	Pyridoxine	420.0
+small molecule	DB00814	Meloxicam	17.5
+biotech	DB00076	Digoxin Immune Fab (Ovine)	17.5
+small molecule	DB01236	Sevoflurane	19.0
+small molecule	DB00262	Carmustine	0.38
+small molecule	DB01595	Nitrazepam	26.0
+biotech	DB00019	Pegfilgrastim	47.5
+small molecule	DB00176	Fluvoxamine	15.6
+small molecule	DB00126	Vitamin C	384.0
+small molecule	DB09020	Bisacodyl	16.0
+small molecule	DB00602	Ivermectin	16.0
+small molecule	DB06730	Gestodene	17.0
+small molecule	DB00191	Phentermine	23.5
+small molecule	DB00830	Phenmetrazine	23.5
+small molecule	DB00865	Benzphetamine	23.5
+small molecule	DB01069	Promethazine	17.5
+small molecule	DB00197	Troglitazone	25.0
+small molecule	DB00533	Rofecoxib	17.0
+small molecule	DB01018	Guanfacine	17.0
+small molecule	DB00654	Latanoprost	0.28
+small molecule	DB01365	Mephentermine	17.5
+small molecule	DB01388	Mibefradil	21.0
+small molecule	DB01191	Dexfenfluramine	18.5
+small molecule	DB00569	Fondaparinux sodium	19.0
+small molecule	DB00982	Isotretinoin	33.5
+small molecule	DB00820	Tadalafil	17.5
+small molecule	DB04841	Flunarizine	432.0
+biotech	DB06366	Pertuzumab	432.0
+biotech	DB00049	Rasburicase	18.0
+small molecule	DB00431	Lindane	18.0
+small molecule	DB00834	Mifepristone	18.0
+small molecule	DB00924	Cyclobenzaprine	18.0
+small molecule	DB04972	Canfosfamide	0.3
+biotech	DB00110	Palivizumab	456.0
+small molecule	DB00254	Doxycycline	20.0
+small molecule	DB01544	Flunitrazepam	22.0
+small molecule	DB00694	Daunorubicin	18.5
+small molecule	DB06705	Gadofosveset trisodium	18.5
+small molecule	DB00655	Estrone	19.0
+small molecule	DB01098	Rosuvastatin	19.0
+small molecule	DB05266	Ibudilast	19.0
+small molecule	DB00692	Phentolamine	0.32
+small molecule	DB00273	Topiramate	21.0
+small molecule	DB00875	Flupentixol	29.0
+small molecule	DB00153	Ergocalciferol	33.5
+small molecule	DB01579	Phendimetrazine	21.5
+biotech	DB00100	Coagulation Factor IX	19.4
+biotech	DB05101	Matuzumab	196.0
+small molecule	DB00293	Raltitrexed	198.0
+small molecule	DB01006	Letrozole	48.0
+small molecule	DB00257	Clotrimazole	2.0
+small molecule	DB00299	Penciclovir	2.0
+small molecule	DB00501	Cimetidine	2.0
+small molecule	DB00550	Propylthiouracil	2.0
+small molecule	DB00586	Diclofenac	2.0
+small molecule	DB00633	Dexmedetomidine	2.0
+small molecule	DB00695	Furosemide	2.0
+small molecule	DB00696	Ergotamine	2.0
+small molecule	DB00775	Tirofiban	2.0
+small molecule	DB00784	Mefenamic acid	2.0
+small molecule	DB00943	Zalcitabine	2.0
+small molecule	DB01026	Ketoconazole	2.0
+small molecule	DB01115	Nifedipine	2.0
+small molecule	DB01197	Captopril	2.0
+biotech	DB01277	Mecasermin	2.0
+small molecule	DB02546	Vorinostat	2.0
+small molecule	DB00680	Moricizine	2.0
+small molecule	DB00651	Dyphylline	2.0
+small molecule	DB00484	Brimonidine	2.0
+small molecule	DB00486	Nabilone	2.0
+small molecule	DB00668	Epinephrine	0.03
+small molecule	DB00841	Dobutamine	0.03
+small molecule	DB00988	Dopamine	0.03
+small molecule	DB00609	Ethionamide	2.5
+small molecule	DB00652	Pentazocine	2.5
+small molecule	DB00994	Neomycin	2.5
+small molecule	DB09021	Benzoctamine	2.5
+small molecule	DB00382	Tacrine	3.0
+small molecule	DB01182	Propafenone	6.0
+small molecule	DB04951	Pirfenidone	2.25
+small molecule	DB00439	Cerivastatin	2.5
+small molecule	DB00457	Prazosin	2.5
+small molecule	DB00479	Amikacin	2.5
+small molecule	DB00860	Prednisolone	2.5
+small molecule	DB00866	Alprenolol	2.5
+small molecule	DB00953	Rizatriptan	2.5
+small molecule	DB01030	Topotecan	2.5
+small molecule	DB00490	Buspirone	2.5
+small molecule	DB01111	Colistimethate	2.5
+small molecule	DB06262	Droxidopa	2.5
+small molecule	DB00323	Tolcapone	2.75
+small molecule	DB00424	Hyoscyamine	2.75
+small molecule	DB00295	Morphine	3.0
+small molecule	DB00638	Inulin	3.0
+small molecule	DB01050	Ibuprofen	3.0
+small molecule	DB01149	Nefazodone	3.0
+small molecule	DB06701	Dexmethylphenidate	3.0
+small molecule	DB08808	Bupranolol	3.0
+small molecule	DB00332	Ipratropium bromide	3.0
+small molecule	DB01067	Glipizide	3.5
+small molecule	DB05100	AG3340	3.5
+small molecule	DB01200	Bromocriptine	5.0
+small molecule	DB01413	Cefepime	2.0
+small molecule	DB01416	Cefpodoxime	2.47
+small molecule	DB01249	Iodixanol	2.1
+small molecule	DB00388	Phenylephrine	2.75
+small molecule	DB00397	Phenylpropanolamine	2.75
+small molecule	DB01117	Atovaquone	64.8
+biotech	DB01272	Alglucosidase alfa	2.3
+small molecule	DB00235	Milrinone	2.3
+small molecule	DB08951	Indoprofen	2.3
+small molecule	DB00856	Chlorphenesin	3.65
+small molecule	DB01190	Clindamycin	2.4
+small molecule	DB00369	Cidofovir	2.8
+small molecule	DB01099	Flucytosine	3.6
+small molecule	DB00279	Liothyronine	60.0
+small molecule	DB00380	Dexrazoxane	2.5
+small molecule	DB00669	Sumatriptan	2.5
+small molecule	DB00697	Tizanidine	2.5
+small molecule	DB00744	Zileuton	2.5
+small molecule	DB00955	Netilmicin	2.5
+small molecule	DB01031	Ethinamate	2.5
+small molecule	DB01172	Kanamycin	2.5
+small molecule	DB04552	Niflumic Acid	2.5
+small molecule	DB00465	Ketorolac	2.5
+small molecule	DB01004	Ganciclovir	2.9
+small molecule	DB00643	Mebendazole	4.0
+small molecule	DB01221	Ketamine	2.75
+small molecule	DB00577	Valaciclovir	2.9
+small molecule	DB00787	Aciclovir	2.9
+small molecule	DB00927	Famotidine	3.0
+small molecule	DB00181	Baclofen	3.25
+small molecule	DB00373	Timolol	3.75
+small molecule	DB00558	Zanamivir	3.8
+small molecule	DB00311	Ethoxzolamide	4.0
+small molecule	DB01227	Levomethadyl Acetate	62.4
+small molecule	DB00425	Zolpidem	2.6
+small molecule	DB01008	Busulfan	2.6
+small molecule	DB00327	Hydromorphone	2.6
+small molecule	DB00923	Ceforanide	2.79
+small molecule	DB00297	Bupivacaine	2.7
+small molecule	DB00471	Montelukast	4.1
+small molecule	DB00394	Beclomethasone	2.8
+small molecule	DB00863	Ranitidine	2.95
+small molecule	DB00661	Verapamil	5.1
+small molecule	DB00659	Acamprosate	26.5
+small molecule	DB00209	Trospium	20.0
+small molecule	DB00574	Fenfluramine	20.0
+small molecule	DB01039	Fenofibrate	20.0
+small molecule	DB01073	Fludarabine	20.0
+small molecule	DB01176	Cyclizine	20.0
+small molecule	DB01196	Estramustine	20.0
+small molecule	DB01210	Levobunolol	20.0
+small molecule	DB05131	TTP889	20.0
+small molecule	DB01195	Flecainide	20.0
+small molecule	DB01624	Zuclopenthixol	20.0
+small molecule	DB00724	Imiquimod	20.0
+small molecule	DB04886	Calanolide A	20.0
+small molecule	DB00557	Hydroxyzine	22.5
+small molecule	DB04882	Edotecarin	22.5
+small molecule	DB00713	Oxacillin	0.42
+small molecule	DB00410	Mupirocin	0.5
+small molecule	DB00949	Felbamate	21.5
+small molecule	DB00734	Risperidone	22.0
+small molecule	DB01088	Iloprost	0.42
+small molecule	DB00370	Mirtazapine	30.0
+small molecule	DB00929	Misoprostol	0.5
+small molecule	DB00627	Niacin	0.54
+small molecule	DB08874	Fidaxomicin	11.7
+small molecule	DB01167	Itraconazole	21.0
+small molecule	DB00920	Ketotifen	21.0
+small molecule	DB00715	Paroxetine	22.5
+small molecule	DB00679	Thioridazine	23.0
+small molecule	DB01114	Chlorphenamine	24.0
+small molecule	DB00590	Doxazosin	22.0
+small molecule	DB01177	Idarubicin	22.0
+small molecule	DB01628	Etoricoxib	22.0
+small molecule	DB00973	Ezetimibe	22.0
+small molecule	DB00252	Phenytoin	22.0
+small molecule	DB01121	Phenacemide	23.5
+small molecule	DB00745	Modafinil	119.0
+small molecule	DB05262	Oxypurinol	23.3
+small molecule	DB04866	Halofuginone	47.95
+small molecule	DB00925	Phenoxybenzamine	24.0
+small molecule	DB00990	Exemestane	24.0
+small molecule	DB01156	Bupropion	24.0
+small molecule	DB06718	Stanozolol	24.0
+small molecule	DB06216	Asenapine	24.0
+small molecule	DB00309	Vindesine	24.0
+small molecule	DB00933	Mesoridazine	36.0
+small molecule	DB00333	Methadone	30.0
+small molecule	DB00475	Chlordiazepoxide	36.0
+small molecule	DB01244	Bepridil	37.0
+small molecule	DB05098	Leptin	0.42
+small molecule	DB00555	Lamotrigine	25.0
+biotech	DB00024	Thyrotropin Alfa	25.0
+small molecule	DB00294	Etonogestrel	25.0
+small molecule	DB00405	Dexbrompheniramine	25.0
+small molecule	DB00398	Sorafenib	36.5
+small molecule	DB01603	Meticillin	0.71
+biotech	DB06643	Denosumab	609.6
+small molecule	DB06684	Vilazodone	25.4
+small molecule	DB00384	Triamterene	4.25
+biotech	DB08869	Tesamorelin	0.43
+biotech	DB00043	Omalizumab	624.0
+biotech	DB06168	Canakinumab	624.0
+small molecule	DB00998	Frovatriptan	26.0
+small molecule	DB01587	Ketazolam	113.0
+small molecule	DB00708	Sufentanil	4.42
+small molecule	DB01186	Pergolide	27.0
+small molecule	DB01175	Escitalopram	29.5
+small molecule	DB00560	Tigecycline	35.0
+small molecule	DB00361	Vinorelbine	35.65
+small molecule	DB00304	Desogestrel	27.8
+biotech	DB01257	Eculizumab	272.0
+small molecule	DB01119	Diazoxide	28.0
+small molecule	DB00250	Dapsone	28.0
+small molecule	DB00146	Calcidiol	288.0
+small molecule	DB06144	Sertindole	72.0
+small molecule	DB00148	Creatine	3.0
+small molecule	DB00641	Simvastatin	3.0
+small molecule	DB00666	Nafarelin	3.0
+small molecule	DB00768	Olopatadine	3.0
+small molecule	DB01425	Alizapride	3.0
+small molecule	DB04829	Lysergic Acid Diethylamide	3.0
+small molecule	DB06696	Arbekacin	3.0
+small molecule	DB08792	Diloxanide	3.0
+small molecule	DB01095	Fluvastatin	3.0
+small molecule	DB00545	Pyridostigmine	3.0
+small molecule	DB00727	Nitroglycerin	0.05
+small molecule	DB00416	Metocurine Iodide	3.5
+small molecule	DB00960	Pindolol	3.5
+small molecule	DB05099	Ancrod	4.0
+small molecule	DB01275	Hydralazine	5.0
+small molecule	DB00201	Caffeine	5.0
+small molecule	DB00754	Ethotoin	6.0
+small molecule	DB00819	Acetazolamide	6.0
+small molecule	DB00502	Haloperidol	504.0
+small molecule	DB00531	Cyclophosphamide	7.5
+small molecule	DB00794	Primidone	13.0
+small molecule	DB00918	Almotriptan	3.5
+small molecule	DB01005	Hydroxyurea	3.5
+small molecule	DB01059	Norfloxacin	3.5
+small molecule	DB01211	Clarithromycin	3.5
+small molecule	DB06698	Betahistine	3.5
+small molecule	DB00671	Cefixime	3.5
+small molecule	DB00412	Rosiglitazone	3.5
+small molecule	DB00503	Ritonavir	4.0
+small molecule	DB04898	Ximelagatran	4.0
+small molecule	DB06725	Lornoxicam	4.0
+small molecule	DB00514	Dextromethorphan	4.5
+small molecule	DB01364	Ephedrine	4.5
+small molecule	DB04982	Talampanel	4.5
+small molecule	DB05016	PTC124	4.5
+small molecule	DB00264	Metoprolol	5.0
+small molecule	DB01132	Pioglitazone	5.0
+small molecule	DB00576	Sulfamethizole	5.5
+small molecule	DB00599	Thiopental	5.5
+small molecule	DB00868	Benzonatate	5.5
+small molecule	DB01145	Sulfoxone	5.5
+small molecule	DB00343	Diltiazem	3.75
+small molecule	DB00572	Atropine	3.0
+small molecule	DB05710	Gantacurium Chloride	0.0515
+small molecule	DB01369	Quinupristin	3.1
+small molecule	DB01002	Levobupivacaine	3.1
+small molecule	DB00376	Trihexyphenidyl	3.7
+small molecule	DB00529	Foscarnet	5.05
+small molecule	DB01045	Rifampicin	3.35
+small molecule	DB00353	Methylergometrine	3.39
+small molecule	DB00765	Metyrosine	3.55
+small molecule	DB00220	Nelfinavir	4.25
+small molecule	DB00214	Torasemide	3.5
+small molecule	DB00342	Terfenadine	3.5
+small molecule	DB00642	Pemetrexed	3.5
+small molecule	DB00687	Fludrocortisone	3.5
+small molecule	DB01049	Ergoloid mesylate	3.5
+small molecule	DB00507	Nitazoxanide	3.5
+biotech	DB00053	Imiglucerase	0.12
+biotech	DB00088	Alglucerase	0.12
+small molecule	DB01087	Primaquine	5.55
+biotech	DB00109	Enfuvirtide	3.8
+small molecule	DB01395	Drospirenone	30.0
+small molecule	DB00196	Fluconazole	30.0
+biotech	DB05136	Bavituximab	30.0
+small molecule	DB00456	Cefalotin	0.5
+small molecule	DB04894	Vapreotide	0.5
+small molecule	DB01348	Spirapril	32.5
+small molecule	DB00417	Penicillin V	0.58
+small molecule	DB01440	Gamma Hydroxybutyric Acid	0.75
+small molecule	DB00554	Piroxicam	53.0
+small molecule	DB01068	Clonazepam	35.0
+small molecule	DB00381	Amlodipine	40.0
+small molecule	DB05109	Trabectedin	41.5
+small molecule	DB00849	Methylphenobarbital	34.0
+small molecule	DB00351	Megestrol acetate	34.0
+small molecule	DB08864	Rilpivirine	44.5
+small molecule	DB00396	Progesterone	44.97
+small molecule	DB00215	Citalopram	35.0
+small molecule	DB00241	Butalbital	35.0
+small molecule	DB06589	Pazopanib	35.0
+small molecule	DB01065	Melatonin	0.71
+small molecule	DB05229	Beraprost	0.625
+small molecule	DB00977	Ethinyl Estradiol	36.0
+small molecule	DB00783	Estradiol	36.0
+small molecule	DB00857	Terbinafine	36.0
+small molecule	DB00970	Dactinomycin	36.0
+small molecule	DB01078	Deslanoside	36.0
+small molecule	DB01106	Levocabastine	36.0
+small molecule	DB01407	Clenbuterol	37.5
+small molecule	DB01234	Dexamethasone	45.0
+small molecule	DB00319	Piperacillin	0.9
+small molecule	DB05129	Elsamitrucin	48.0
+small molecule	DB01353	Butethal	37.0
+small molecule	DB05083	TMC278	38.0
+small molecule	DB00665	Nilutamide	48.55
+small molecule	DB00278	Argatroban	0.75
+small molecule	DB01589	Quazepam	39.0
+small molecule	DB00203	Sildenafil	4.0
+small molecule	DB00537	Ciprofloxacin	4.0
+small molecule	DB00571	Propranolol	4.0
+small molecule	DB00837	Progabide	4.0
+small molecule	DB01231	Diphenidol	4.0
+small molecule	DB01559	Clotiazepam	4.0
+small molecule	DB05010	SGS742	4.0
+small molecule	DB00704	Naltrexone	4.0
+small molecule	DB01382	Glycodiazine	4.0
+small molecule	DB05028	Microplasmin	0.0011
+small molecule	DB00910	Paricalcitol	5.0
+small molecule	DB00427	Triprolidine	5.0
+small molecule	DB04880	Enoximone	7.0
+small molecule	DB00773	Etoposide	7.5
+small molecule	DB00014	Goserelin	4.5
+small molecule	DB00862	Vardenafil	5.0
+small molecule	DB00700	Eplerenone	5.0
+small molecule	DB00889	Granisetron	5.0
+small molecule	DB00409	Remoxipride	5.5
+small molecule	DB00350	Minoxidil	4.2
+small molecule	DB09017	Brotizolam	4.4
+small molecule	DB00848	Levamisole	5.0
+small molecule	DB00430	Cefpiramide	4.44
+small molecule	DB00328	Indomethacin	4.5
+small molecule	DB00497	Oxycodone	4.5
+small molecule	DB00747	Scopolamine	4.5
+small molecule	DB01225	Enoxaparin	4.5
+small molecule	DB01328	Cefonicid	4.5
+small molecule	DB00885	Pemirolast	4.5
+small molecule	DB01216	Finasteride	4.5
+small molecule	DB00601	Linezolid	5.0
+small molecule	DB00488	Altretamine	7.45
+small molecule	DB00686	Pentosan Polysulfate	4.8
+small molecule	DB09028	Cytisine	4.8
+small molecule	DB00310	Chlorthalidone	40.0
+small molecule	DB01556	Chlorphentermine	40.0
+small molecule	DB00975	Dipyridamole	0.67
+small molecule	DB01282	Carbetocin	0.67
+small molecule	DB00714	Apomorphine	0.67
+small molecule	DB00362	Anidulafungin	45.0
+small molecule	DB00625	Efavirenz	47.5
+small molecule	DB00653	Magnesium Sulfate	43.2
+biotech	DB01271	Idursulfase	0.73
+biotech	DB04956	Afelimomab	44.7
+small molecule	DB00615	Rifabutin	45.0
+small molecule	DB00238	Nevirapine	45.0
+biotech	DB00103	Agalsidase beta	1.23
+small molecule	DB00880	Chlorothiazide	1.38
+small molecule	DB00566	Succimer	48.0
+small molecule	DB00317	Gefitinib	48.0
+small molecule	DB00459	Acitretin	49.0
+small molecule	DB01551	Dihydrocodeine	4.0
+small molecule	DB01082	Streptomycin	5.0
+small molecule	DB00185	Cevimeline	5.0
+biotech	DB00095	Efalizumab	120.0
+small molecule	DB00539	Toremifene	120.0
+small molecule	DB00285	Venlafaxine	5.0
+small molecule	DB00289	Atomoxetine	5.0
+small molecule	DB00336	Nitrofural	5.0
+small molecule	DB00444	Teniposide	5.0
+small molecule	DB00803	Colistin	5.0
+small molecule	DB00851	Dacarbazine	5.0
+small molecule	DB00872	Conivaptan	5.0
+small molecule	DB01020	Isosorbide Mononitrate	5.0
+small molecule	DB00893	Iron Dextran	5.0
+small molecule	DB00770	Alprostadil	0.125
+small molecule	DB00312	Pentobarbital	27.5
+small molecule	DB00709	Lamivudine	6.0
+small molecule	DB01427	Amrinone	6.5
+small molecule	DB00498	Phenindione	7.5
+small molecule	DB00795	Sulfasalazine	7.5
+small molecule	DB00428	Streptozocin	0.17
+small molecule	DB00946	Phenprocoumon	132.0
+small molecule	DB01409	Tiotropium	132.0
+small molecule	DB00763	Methimazole	5.5
+small molecule	DB00932	Tipranavir	5.5
+small molecule	DB08806	Roxatidine acetate	5.5
+small molecule	DB01233	Metoclopramide	5.5
+small molecule	DB00882	Clomifene	144.0
+small molecule	DB00706	Tamsulosin	6.0
+small molecule	DB00996	Gabapentin	6.0
+small molecule	DB00136	Calcitriol	6.5
+small molecule	DB00952	Naratriptan	6.55
+small molecule	DB01486	Cathine	5.2
+small molecule	DB00227	Lovastatin	5.3
+small molecule	DB00242	Cladribine	5.4
+small molecule	DB00938	Salmeterol	5.5
+biotech	DB00055	Drotrecogin alfa	5.5
+small molecule	DB00871	Terbutaline	5.7
+small molecule	DB00999	Hydrochlorothiazide	10.2
+small molecule	DB00443	Betamethasone	5.6
+small molecule	DB00828	Fosfomycin	5.7
+small molecule	DB00904	Ondansetron	5.7
+small molecule	DB00552	Pentostatin	5.7
+small molecule	DB00705	Delavirdine	5.8
+small molecule	DB00764	Mometasone	5.8
+small molecule	DB01212	Ceftriaxone	7.25
+small molecule	DB01128	Bicalutamide	141.6
+small molecule	DB00967	Desloratadine	50.0
+small molecule	DB01217	Anastrozole	50.0
+small molecule	DB01235	L-DOPA	1.17
+small molecule	DB05007	XL647	60.0
+small molecule	DB04933	Eritoran	56.55
+small molecule	DB01339	Vecuronium	1.09
+small molecule	DB04845	Ixabepilone	52.0
+small molecule	DB00593	Ethosuximide	53.0
+small molecule	DB00991	Oxaprozin	54.9
+small molecule	DB06581	Bevirimat	62.9
+small molecule	DB00877	Sirolimus	60.0
+small molecule	DB01142	Doxepin	15.25
+small molecule	DB00268	Ropinirole	6.0
+small molecule	DB00402	Eszopiclone	6.0
+small molecule	DB00737	Meclizine	6.0
+small molecule	DB00816	Orciprenaline	6.0
+small molecule	DB01051	Novobiocin	6.0
+small molecule	DB00308	Ibutilide	6.0
+small molecule	DB00629	Guanabenz	6.0
+small molecule	DB01432	Cholestyramine	0.1
+small molecule	DB00391	Sulpiride	7.0
+small molecule	DB00433	Prochlorperazine	7.0
+small molecule	DB01218	Halofantrine	192.0
+small molecule	DB00604	Cisapride	9.0
+small molecule	DB00647	Dextropropoxyphene	9.0
+small molecule	DB00759	Tetracycline	9.0
+small molecule	DB01032	Probenecid	9.0
+small molecule	DB00891	Sulfapyridine	10.0
+small molecule	DB01107	Methyprylon	11.0
+small molecule	DB00575	Clonidine	13.0
+small molecule	DB00335	Atenolol	6.5
+small molecule	DB00598	Labetalol	7.0
+small molecule	DB00741	Hydrocortisone	7.0
+small molecule	DB00908	Quinidine	7.0
+small molecule	DB00916	Metronidazole	7.0
+small molecule	DB01137	Levofloxacin	7.0
+small molecule	DB01202	Levetiracetam	7.0
+small molecule	DB06710	Methyltestosterone	7.0
+small molecule	DB08811	Tofisopam	7.0
+small molecule	DB08868	Fingolimod	180.0
+small molecule	DB00650	Leucovorin	6.2
+small molecule	DB00331	Metformin	6.2
+small molecule	DB00230	Pregabalin	6.3
+small molecule	DB00404	Alprazolam	17.1
+small molecule	DB06623	Flupirtine	6.5
+small molecule	DB00280	Disopyramide	6.7
+biotech	DB00038	Oprelvekin	6.9
+small molecule	DB00251	Terconazole	6.9
+small molecule	DB05062	INCB9471	60.0
+small molecule	DB01043	Memantine	80.0
+small molecule	DB00887	Bumetanide	1.25
+small molecule	DB01060	Amoxicillin	1.02
+small molecule	DB00909	Zonisamide	63.0
+small molecule	DB01553	Cloxazolam	65.0
+small molecule	DB00140	Riboflavin	1.25
+small molecule	DB00207	Azithromycin	68.0
+small molecule	DB00813	Fentanyl	7.0
+small molecule	DB01155	Gemifloxacin	7.0
+small molecule	DB00243	Ranolazine	7.0
+small molecule	DB00246	Ziprasidone	7.0
+small molecule	DB00307	Bexarotene	7.0
+small molecule	DB00674	Galantamine	7.0
+small molecule	DB01184	Domperidone	7.0
+small molecule	DB06751	Drotaverine	9.5
+small molecule	DB08917	Ferric Carboxymaltose	9.5
+small molecule	DB01136	Carvedilol	8.5
+small molecule	DB00401	Nisoldipine	9.5
+small molecule	DB06742	Ambroxol	9.5
+small molecule	DB00634	Sulfacetamide	9.9
+small molecule	DB01044	Gatifloxacin	10.5
+small molecule	DB00536	Guanidine	7.5
+small molecule	DB06702	Fesoterodine	7.0
+small molecule	DB00906	Tiagabine	8.0
+small molecule	DB01223	Aminophylline	8.0
+biotech	DB04949	Pexelizumab	10.0
+small molecule	DB00701	Amprenavir	8.85
+biotech	DB00074	Basiliximab	172.8
+small molecule	DB01438	Phenazopyridine	7.35
+small molecule	DB00286	Conjugated Estrogens	7.4
+small molecule	DB00721	Procaine	0.13
+small molecule	DB00843	Donepezil	70.0
+biotech	DB06149	Teicoplanin	85.0
+biotech	DB00004	Denileukin diftitox	1.25
+small molecule	DB00469	Tenoxicam	72.0
+small molecule	DB00733	Pralidoxime	1.26
+small molecule	DB01204	Mitoxantrone	75.0
+small molecule	DB00292	Etomidate	1.25
+small molecule	DB01238	Aripiprazole	110.5
+small molecule	DB00175	Pravastatin	77.0
+small molecule	DB00270	Isradipine	8.0
+small molecule	DB00277	Theophylline	8.0
+small molecule	DB00395	Carisoprodol	8.0
+small molecule	DB00413	Pramipexole	8.0
+small molecule	DB00543	Amoxapine	8.0
+small molecule	DB00964	Apraclonidine	8.0
+small molecule	DB00978	Lomefloxacin	8.0
+small molecule	DB00363	Clozapine	8.0
+small molecule	DB01108	Trilostane	8.0
+small molecule	DB01143	Amifostine	0.13
+small molecule	DB04892	Phenserine	9.0
+small molecule	DB01418	Acenocoumarol	9.5
+small molecule	DB00861	Diflunisal	10.0
+small molecule	DB01239	Chlorprothixene	10.0
+small molecule	DB00580	Valdecoxib	9.5
+small molecule	DB00440	Trimethoprim	9.5
+small molecule	DB00850	Perphenazine	10.0
+small molecule	DB00772	Malathion	16.0
+biotech	DB00023	Asparaginase	19.0
+small molecule	DB00305	Mitomycin	0.47
+small molecule	DB00276	Amsacrine	8.5
+small molecule	DB00757	Dolasetron	8.1
+small molecule	DB00341	Cetirizine	8.3
+small molecule	DB00455	Loratadine	8.4
+biotech	DB00025	Antihemophilic Factor	13.85
+small molecule	DB00436	Bendroflumethiazide	8.5
+biotech	DB06372	Rilonacept	206.4
+small molecule	DB00487	Pefloxacin	8.6
+small molecule	DB00622	Nicardipine	8.6
+small molecule	DB00620	Triamcinolone	1.47
+small molecule	DB00320	Dihydroergotamine	9.0
+small molecule	DB01165	Ofloxacin	9.0
+small molecule	DB01594	Cinolazepam	9.0
+small molecule	DB01892	Hyperforin	9.0
+small molecule	DB06817	Raltegravir	9.0
+small molecule	DB00217	Bethanidine	9.0
+small molecule	DB00339	Pyrazinamide	9.5
+small molecule	DB00520	Caspofungin	10.0
+small molecule	DB00612	Bisoprolol	10.5
+small molecule	DB00673	Aprepitant	11.0
+small molecule	DB06717	Fosaprepitant	11.0
+small molecule	DB00852	Pseudoephedrine	12.5
+small molecule	DB00313	Valproic Acid	12.5
+small molecule	DB00400	Griseofulvin	15.0
+small molecule	DB00836	Loperamide	10.8
+small molecule	DB00738	Pentamidine	11.15
+small molecule	DB00660	Metaxalone	9.2
+small molecule	DB01185	Fluoxymesterone	9.2
+small molecule	DB00811	Ribavirin	9.5
+small molecule	DB00802	Alfentanil	1.68
+small molecule	DB00205	Pyrimethamine	96.0
+small molecule	DB08936	Chlorcyclizine	12.0
+biotech	DB01284	Cosyntropin	0.25
+biotech	DB01285	Corticotropin	0.25
+small molecule	DB08871	Eribulin	40.0
+small molecule	DB05773	ado-trastuzumab emtansine	96.0
+small molecule	DB08901	Ponatinib	24.0
+small molecule	DB06196	Icatibant	1.4
+biotech	DB00113	Arcitumomab	1.0
+small molecule	DB00962	Zaleplon	1.0
+small molecule	DB00229	Cefotiam	1.0
+small molecule	DB00493	Cefotaxime	1.0
+small molecule	DB01604	Pivampicillin	1.0
+biotech	DB00001	Lepirudin	1.3
+small molecule	DB00853	Temozolomide	1.8
+small molecule	DB08996	Dimetacrine	10.0
+small molecule	DB06288	Amisulpride	12.0
+small molecule	DB00720	Clodronate	13.0
+biotech	DB06655	Liraglutide	13.0
+small molecule	DB00524	Metolazone	14.0
+small molecule	DB01265	Telbivudine	15.0
+small molecule	DB00468	Quinine	18.0
+biotech	DB04899	Nesiritide	0.3
+small molecule	DB00553	Methoxsalen	2.0
+biotech	DB04900	Thymalfasin	2.0
+small molecule	DB00735	Naftifine	60.0
+biotech	DB00063	Eptifibatide	2.5
+biotech	DB00112	Bevacizumab	480.0
+small molecule	DB01131	Proguanil	20.0
+small molecule	DB01403	Methotrimeprazine	20.0
+small molecule	DB00461	Nabumetone	23.0
+small molecule	DB01406	Danazol	24.0
+small molecule	DB00645	Dyclonine	0.25
+small molecule	DB00672	Chlorpropamide	36.0
+small molecule	DB01138	Sulfinpyrazone	5.0
+small molecule	DB01610	Valganciclovir	4.08
+small molecule	DB00296	Ropivacaine	4.2
+small molecule	DB00377	Palonosetron	40.0
+biotech	DB01278	Pramlintide	0.8
+small molecule	DB00222	Glimepiride	5.0
+small molecule	DB02703	Fusidic Acid	5.5
+small molecule	DB00115	Cyanocobalamin	144.0
+small molecule	DB00200	Hydroxocobalamin	144.0
+small molecule	DB01220	Rifaximin	6.0
+small molecule	DB04879	Vatalanib	6.0
+small molecule	DB00532	Mephenytoin	7.0
+small molecule	DB01124	Tolbutamide	7.0
+small molecule	DB04991	XL784	8.0
+small molecule	DB05032	REV131	8.0
+small molecule	DB00821	Carprofen	8.0
+small molecule	DB01405	Temafloxacin	8.0
+small molecule	DB00711	Diethylcarbamazine	8.0
+small molecule	DB01112	Cefuroxime	1.33
+biotech	DB01270	Ranibizumab	192.0
+small molecule	DB00796	Candesartan	9.0
+small molecule	DB01206	Lomustine	1.57
+small molecule	DB00261	Anagrelide	1.3
+small molecule	DB00934	Maprotiline	51.0
+small molecule	DB06626	Axitinib	4.3
+biotech	DB00044	Lutropin alfa	18.0
+small molecule	DB08875	Cabozantinib	55.0
+small molecule	DB08916	Afatinib	37.0
+small molecule	DB00758	Clopidogrel	8.0
+biotech	DB00066	Follitropin beta	37.5
+biotech	DB00094	Urofollitropin	37.5
+small molecule	DB00515	Cisplatin	0.5
+small molecule	DB00422	Methylphenidate	3.5
+small molecule	DB00597	Gadoteridol	1.67
+small molecule	DB00538	Gadoversetamide	1.73
+small molecule	DB00789	Gadopentetate dimeglumine	1.67
+small molecule	DB01010	Edrophonium	1.19
+small molecule	DB01338	Pipecuronium	1.7
+small molecule	DB00722	Lisinopril	12.0
+small molecule	DB04890	Bepotastine	2.5
+small molecule	DB00881	Quinapril	2.0
+small molecule	DB01198	Zopiclone	5.0
+small molecule	DB00495	Zidovudine	1.1
+biotech	DB01309	Insulin Glulisine	0.7
+small molecule	DB00972	Azelastine	22.0
+small molecule	DB08911	Trametinib	104.4
+small molecule	DB08881	Vemurafenib	57.0
+small molecule	DB00911	Tinidazole	13.2
+small molecule	DB01025	Amlexanox	3.5
+small molecule	DB01394	Colchicine	1.0
+small molecule	DB01392	Yohimbine	0.6
+small molecule	DB00905	Bimatoprost	0.75
+small molecule	DB01102	Arbutamine	0.13
+small molecule	DB00565	Cisatracurium Besylate	0.37
+small molecule	DB06201	Rufinamide	8.0
+biotech	DB08886	Asparaginase Erwinia chrysanthemi	16.0
+small molecule	DB06204	Tapentadol	4.0
+small molecule	DB04855	Dronedarone	16.0
+biotech	DB00039	Palifermin	4.5
+small molecule	DB00922	Levosimendan	1.0
+small molecule	DB01320	Fosphenytoin	0.25
+biotech	DB06674	golimumab	336.0
+small molecule	DB06193	Pixantrone	12.0
+small molecule	DB08824	Ioflupane I 123	13.2
+small molecule	DB00635	Prednisone	2.5
+biotech	DB00080	Daptomycin	8.5
+small molecule	DB00636	Clofibrate	20.0
+small molecule	DB08910	Pomalidomide	7.5
+small molecule	DB00284	Acarbose	2.0
+small molecule	DB04865	Homoharringtonine	6.0
+small molecule	DB01053	Benzylpenicillin	0.65
+small molecule	DB08814	Triflusal	0.5
+biotech	DB08898	Glucarpidase	5.6
+small molecule	DB08813	Nadroparin	7.35
+small molecule	DB01077	Etidronic acid	3.5
+small molecule	DB00330	Ethambutol	3.5
+small molecule	DB04884	Dapoxetine	0.5
+small molecule	DB00564	Carbamazepine	45.0
+small molecule	DB00683	Midazolam	3.0
+small molecule	DB08827	Lomitapide	39.7
+small molecule	DB00976	Telithromycin	10.0
+small molecule	DB00842	Oxazepam	8.2
+small molecule	DB01061	Azlocillin	1.4
+small molecule	DB00489	Sotalol	12.0
+small molecule	DB00928	Azacitidine	4.0
+small molecule	DB08877	Ruxolitinib	2.8
+small molecule	DB00915	Amantadine	12.0
+small molecule	DB01208	Sparfloxacin	8.01
+biotech	DB01276	Exenatide	2.4
+small molecule	DB05294	Vandetanib	456.0
+small molecule	DB00530	Erlotinib	36.2
+small molecule	DB06775	Carglumic Acid	5.6
+small molecule	DB00691	Moexipril	5.5
+small molecule	DB00408	Loxapine	4.0
+small molecule	DB06704	Iobenguane	13.2
+small molecule	DB00718	Adefovir Dipivoxil	7.48
+small molecule	DB08860	Pitavastatin	12.0
+small molecule	DB00467	Enoxacin	4.5
+small molecule	DB00371	Meprobamate	10.0
+small molecule	DB00189	Ethchlorvynol	60.5
+small molecule	DB00573	Fenoprofen	3.0
+small molecule	DB00594	Amiloride	7.5
+small molecule	DB00318	Codeine	3.0
+small molecule	DB08865	Crizotinib	42.0
+small molecule	DB01263	Posaconazole	35.0
+small molecule	DB08934	Sofosbuvir	0.4
+biotech	DB00046	Insulin Lispro	1.0
+small molecule	DB05812	Abiraterone	9.5
+small molecule	DB08893	Mirabegron	50.0
+small molecule	DB00588	Fluticasone Propionate	7.8
+small molecule	DB06402	Telavancin	8.0
+small molecule	DB00559	Bosentan	5.0
+small molecule	DB00287	Travoprost	0.75
+small molecule	DB00518	Albendazole	10.0
+small molecule	DB08884	Gadoxetate	0.93
+small molecule	DB08882	Linagliptin	131.0
+small molecule	DB08930	Dolutegravir	14.0
+small molecule	DB00997	Doxorubicin	34.0
+small molecule	DB08961	Azosemide	2.5
+biotech	DB00008	Peginterferon alfa-2a	80.0
+small molecule	DB06212	Tolvaptan	12.0
+small molecule	DB06203	Alogliptin	21.0
+small molecule	DB04938	Ospemifene	26.0
+small molecule	DB04953	Ezogabine	7.5
+small molecule	DB01283	Lumiracoxib	4.0
+small molecule	DB06616	Bosutinib	22.5
+biotech	DB08904	Certolizumab pegol	336.0
+small molecule	DB08905	Formestane	0.3
+small molecule	DB06209	Prasugrel	7.4
+small molecule	DB00839	Tolazamide	7.0
+small molecule	DB06771	Besifloxacin	7.0
+small molecule	DB01056	Tocainide	15.0
+small molecule	DB01627	Lincomycin	5.4
+small molecule	DB01577	Methamphetamine	4.5
+small molecule	DB00419	Miglustat	6.5
+small molecule	DB01501	Difenoxin	7.24
+small molecule	DB00485	Dicloxacillin	0.7
+small molecule	DB00800	Fenoldopam	0.08
+small molecule	DB01764	Dalfopristin	0.7
+small molecule	DB00732	Atracurium	0.33
+small molecule	DB04876	Vildagliptin	1.5
+small molecule	DB00248	Cabergoline	66.0
+small molecule	DB00611	Butorphanol	18.0
+small molecule	DB00496	Darifenacin	16.0
+small molecule	DB08872	gabapentin enacarbil	5.55
+small molecule	DB00491	Miglitol	2.0
+small molecule	DB01084	Emedastine	3.5
+small molecule	DB01591	Solifenacin	56.5
+small molecule	DB06766	Alcaftadine	2.0
+small molecule	DB00684	Tobramycin	2.0
+small molecule	DB01273	Varenicline	24.0
+small molecule	DB00275	Olmesartan	13.0
+small molecule	DB00974	Edetic Acid	0.67
+small molecule	DB08887	Icosapent ethyl	89.0
+biotech	DB08935	Obinutuzumab	681.6
+small molecule	DB01331	Cefoxitin	0.92
+small molecule	DB08826	Deferiprone	1.9
+small molecule	DB08822	Azilsartan medoxomil	11.0
+small molecule	DB06663	Pasireotide	12.0
+small molecule	DB06811	Polidocanol	1.5
+small molecule	DB00799	Tazarotene	18.0
+small molecule	DB01400	Neostigmine	52.0
+small molecule	DB04911	Oritavancin	195.4
+small molecule	DB00282	Pamidronate	28.0
+small molecule	DB00188	Bortezomib	12.0
+small molecule	DB00740	Riluzole	12.0
+small molecule	DB00662	Trimethobenzamide	8.0
+small molecule	DB00315	Zolmitriptan	3.0
+small molecule	DB01609	Deferasirox	12.0
+biotech	DB05829	Preotact	1.5
+small molecule	DB01041	Thalidomide	6.0
+small molecule	DB00556	Perflutren	1.9
+small molecule	DB00303	Ertapenem	4.0
+small molecule	DB00954	Dirithromycin	8.0
+small molecule	DB00827	Cinoxacin	1.5
+small molecule	DB01329	Cefoperazone	2.0
+small molecule	DB06700	Desvenlafaxine	11.1
+biotech	DB00097	Choriogonadotropin alfa	29.0
+small molecule	DB01251	Gliquidone	8.0
+small molecule	DB08880	Teriflunomide	444.0
+small molecule	DB00788	Naproxen	15.0
+small molecule	DB01254	Dasatinib	4.0
+small molecule	DB01319	Fosamprenavir	7.7
+small molecule	DB04871	Lorcaserin	11.0
+small molecule	DB00499	Flutamide	6.0
+small molecule	DB01291	Pirbuterol	2.0
+small molecule	DB00968	Methyldopa	1.75
+small molecule	DB00844	Nalbuphine	5.0
+small molecule	DB01215	Estazolam	17.0
+small molecule	DB01230	Pemoline	12.0
+small molecule	DB00513	Aminocaproic Acid	2.0
+small molecule	DB00216	Eletriptan	4.0
+small molecule	DB00876	Eprosartan	7.0
+small molecule	DB01267	Paliperidone	23.0
+biotech	DB08870	Brentuximab vedotin	120.0
+small molecule	DB00631	Clofarabine	5.2
+small molecule	DB01262	Decitabine	0.51
+small molecule	DB08604	Triclosan	21.0
+small molecule	DB01511	Delorazepam	97.5
+small molecule	DB00644	Gonadorelin	0.42
+small molecule	DB00300	Tenofovir	17.0
+small molecule	DB00352	Tioguanine	1.33

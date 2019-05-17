@@ -14,6 +14,12 @@ This repository contains several code and data components:
 
 + `pubchem-map.ipynb` -- DrugBank compounds were mapped to [PubChem](https://pubchem.ncbi.nlm.nih.gov/search/) based on exact InChi string matches. The mapping is available as a [tsv file](data/pubchem-mapping.tsv).
 
++ `parse-halflife.ipynb` -- extracts half-life and other structural information from the Drugbank xml download into a [tsv file](data/drugbank_halflife.tsv) where each row represents a drug. The half-life information was listed as free text in Drugbank. We manually extract the numeric value from free text into a [xlsx file](data/drugbank_halflife_curated.xlsx). All values were converted to hours. If the value was listed as time range (e.g. a ~ b) in DrugBank, average was calculated (e.g. (a + b)/2).
+
++ `extract-curated-halflife.ipynb` -- extracts subset of drugs with curated half-life into a [tsv file](data/drugbank_subset_halflife_curated.tsv) where each row represents a drug.
+
++ `predict-halflife.ipynb` -- builds supervised learning models to predict half-life based on structural properties of drugs.
+
 ## License
 
 DrugBank content and derivates are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/ "Creative Commons Attribution-NonCommercial 4.0 International"). Original content is released as [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/ "CC0 1.0 Universal: Public Domain Dedication")
